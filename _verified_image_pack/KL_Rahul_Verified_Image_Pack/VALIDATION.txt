@@ -1,0 +1,14 @@
+Validation completed: 2026-08-26
+
+Input images inspected: 41
+Exact byte duplicates: 0
+Renamed originals present: 41
+Enhanced WebP files present: 41
+Enhanced WebP files with zero bytes: 0
+Enhanced WebP files successfully pixel-decoded: 41
+Preview sheets: 3
+
+Classification policy:
+- Exact-event captions are allowed only where the manifest says exact event verified.
+- Era/team verified images require an era-level caption unless independently sourced.
+- Low-resolution images are capped to the manifest's recommended rendered width or replaced.

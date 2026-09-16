@@ -1,0 +1,31 @@
+{
+  "name": "klr01-rahul-archive",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev:api": "python -m uvicorn backend.app.main:app --host 127.0.0.1 --port 8000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "generate:media": "node scripts/generate-media-manifest.mjs",
+    "repair:media": "python scripts/repair-media-assets.py"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "latest",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}

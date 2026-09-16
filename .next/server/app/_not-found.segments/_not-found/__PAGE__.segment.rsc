@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[4709,["/_next/static/chunks/2cun2463yp40c.js","/_next/static/chunks/3aojm4_zzbwwj.js"],""]
+3:I[67921,["/_next/static/chunks/2cun2463yp40c.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[67921,["/_next/static/chunks/2cun2463yp40c.js"],"ViewportBoundary"]
+9:I[67921,["/_next/static/chunks/2cun2463yp40c.js"],"MetadataBoundary"]
+a:I[60193,["/_next/static/chunks/2cun2463yp40c.js"],"IconMark"]
+c:I[43897,["/_next/static/chunks/2cun2463yp40c.js"],"default"]
+d:I[63994,["/_next/static/chunks/2cun2463yp40c.js"],"default"]
+10:I[8821,["/_next/static/chunks/2cun2463yp40c.js","/_next/static/chunks/3az6uq6gou3_1.js"],"default"]
+:HL["/_next/static/chunks/1ezpyffta295j.css","style"]
+7:X
+f:X
+f:C
+0:{"buildId":"e3rawSxaj3SjViVWmedZ4","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"error-page","children":["$","div",null,{"children":[["$","span",null,{"children":"404 / Outside the archive"}],["$","h1",null,{"children":"INNINGS NOT FOUND."}],["$","p",null,{"children":"The route you requested does not exist. Return to the verified archive and continue from the home section."}],["$","$L2",null,{"href":"/","children":"Return home"}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/3aojm4_zzbwwj.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#070809"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"KLR01 — The Rahul Archive"}],["$","meta","1",{"name":"description","content":"An independent KL Rahul fan archive with verified Cricsheet analytics, a chronological journey, century vault, gallery and grounded AI fan assistant."}],["$","meta","2",{"name":"application-name","content":"KLR01"}],["$","meta","3",{"name":"keywords","content":"KL Rahul,cricket analytics,fan archive,Cricsheet"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"KLR01 — The Rahul Archive"}],["$","meta","6",{"property":"og:description","content":"A cinematic, data-grounded KL Rahul fan archive."}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"KLR01 — The Rahul Archive"}],["$","meta","10",{"name":"twitter:description","content":"A cinematic, data-grounded KL Rahul fan archive."}],["$","link","11",{"rel":"icon","href":"/icon.svg?icon.17alcwnzt66w4.svg","sizes":"any","type":"image/svg+xml"}],["$","$La","12",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1ezpyffta295j.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2cun2463yp40c.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","error":"$10","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3az6uq6gou3_1.js","async":true}]],"template":["$","$Ld",null,{}],"notFound":[["$","main",null,{"className":"error-page","children":["$","div",null,{"children":[["$","span",null,{"children":"404 / Outside the archive"}],["$","h1",null,{"children":"INNINGS NOT FOUND."}],["$","p",null,{"children":"The route you requested does not exist. Return to the verified archive and continue from the home section."}],["$","$L2",null,{"href":"/","children":"Return home"}]]}]}],[]]}]}]}]]}],"isPartial":"$@11","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+5:null
+7:300
+13:true
+7:C
+12:0
+b:"$undefined"
+e:"$undefined"
+11:"$undefined"
+6:"$undefined"

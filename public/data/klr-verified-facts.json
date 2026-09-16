@@ -1,0 +1,115 @@
+{
+  "lastUpdated": "2026-08-26",
+  "identity": "Independent AI fan assistant; not KL Rahul and not affiliated with him.",
+  "officialCareerSnapshot": {
+    "formats": {
+      "IPL": {
+        "matches": 159,
+        "innings": 150,
+        "runs": 5815,
+        "average": 46.15,
+        "strikeRate": 139.15,
+        "highest": 152,
+        "hundreds": 6,
+        "fifties": 45,
+        "thirties": 74,
+        "fours": 508,
+        "sixes": 239,
+        "notOuts": 24
+      },
+      "Test": {
+        "matches": 69,
+        "innings": 121,
+        "runs": 4270,
+        "average": 36.81,
+        "strikeRate": 52.09,
+        "highest": 199,
+        "hundreds": 12,
+        "fifties": 21,
+        "thirties": 49,
+        "fours": 508,
+        "sixes": 33,
+        "notOuts": 5
+      },
+      "ODI": {
+        "matches": 98,
+        "innings": 90,
+        "runs": 3412,
+        "average": 49.45,
+        "strikeRate": 91.08,
+        "highest": 112,
+        "hundreds": 8,
+        "fifties": 20,
+        "thirties": 46,
+        "fours": 265,
+        "sixes": 79,
+        "notOuts": 21
+      },
+      "T20I": {
+        "matches": 72,
+        "innings": 68,
+        "runs": 2265,
+        "average": 37.75,
+        "strikeRate": 139.13,
+        "highest": 110,
+        "hundreds": 2,
+        "fifties": 22,
+        "thirties": 31,
+        "fours": 191,
+        "sixes": 99,
+        "notOuts": 8
+      }
+    },
+    "overall": {
+      "matches": 398,
+      "innings": 429,
+      "runs": 15762,
+      "average": 42.49,
+      "strikeRate": 88.8,
+      "highest": 199,
+      "hundreds": 28,
+      "fifties": 108,
+      "thirties": 200,
+      "fours": 1472,
+      "sixes": 450,
+      "notOuts": 58
+    }
+  },
+  "afghanistan2026": {
+    "date": "2026-06-06",
+    "opponent": "Afghanistan",
+    "match": "one-off Test",
+    "venue": "Mullanpur / New Chandigarh",
+    "runs": 100,
+    "balls": 165,
+    "fours": 11,
+    "sixes": 0,
+    "testHundredNumber": 12,
+    "viceCaptainMilestone": "First hundred as India's Test vice-captain"
+  },
+  "championsTrophy2025": {
+    "result": "India won the ICC Champions Trophy in March 2025",
+    "matches": 5,
+    "innings": 4,
+    "runs": 140,
+    "strikeRate": 97.9,
+    "final": "34 not out and completed the chase against New Zealand with Ravindra Jadeja",
+    "role": "Middle-order wicketkeeper-finisher",
+    "milestone": "First senior ICC tournament title as a member of India's winning squad"
+  },
+  "t20iStatus": {
+    "lastAppearance": "2022-11-10",
+    "lastMatch": "T20 World Cup semi-final against England",
+    "notInWinningSquads": [
+      "India's 2024 T20 World Cup-winning squad",
+      "India's 2026 T20 World Cup-winning squad"
+    ],
+    "status": "No T20I appearance since November 2022; a return remains an unfinished personal objective."
+  },
+  "sourceNotes": [
+    "BCCI international player profile and official schedule",
+    "IPL official player profile",
+    "ICC tournament reports and player features",
+    "Verified scorecards for the Afghanistan 2026 Test and August 2026 Sri Lanka Test"
+  ]
+}

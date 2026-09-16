@@ -1,0 +1,4113 @@
+{
+  "generated_from": [
+    "USEABLE IMAGES",
+    "KL_Rahul_Codex_Asset_Pack/01_originals_renamed"
+  ],
+  "audit_summary": {
+    "old_collection_found": 40,
+    "new_pack_found": 79,
+    "invalid_source_files": 0,
+    "exact_duplicate_files_removed": 1,
+    "final_gallery_images": 118,
+    "duplicate_note": "OIP (9).webp is the same frame as pack-3639; pack-3639 is retained."
+  },
+  "categories": [
+    {
+      "id": "International",
+      "count": 72
+    },
+    {
+      "id": "Test",
+      "count": 31
+    },
+    {
+      "id": "ODI",
+      "count": 29
+    },
+    {
+      "id": "T20I",
+      "count": 2
+    },
+    {
+      "id": "IPL",
+      "count": 28
+    },
+    {
+      "id": "Domestic and Early Career",
+      "count": 13
+    },
+    {
+      "id": "Wicketkeeping",
+      "count": 4
+    },
+    {
+      "id": "Centuries and Celebrations",
+      "count": 51
+    },
+    {
+      "id": "Off Field",
+      "count": 21
+    },
+    {
+      "id": "RCB",
+      "count": 4
+    },
+    {
+      "id": "Punjab Kings",
+      "count": 6
+    },
+    {
+      "id": "LSG",
+      "count": 9
+    },
+    {
+      "id": "Delhi Capitals",
+      "count": 10
+    }
+  ],
+  "records": [
+    {
+      "id": "pack-3621",
+      "asset_id": 3621,
+      "filename": "kl-rahul-early-career-3621.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3621.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3621.webp",
+      "width": 600,
+      "height": 450,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Domestic"
+      ],
+      "team_franchise": [
+        "Karnataka"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "Domestic and Early Career",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Karnataka · Domestic",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3622",
+      "asset_id": 3622,
+      "filename": "kl-rahul-early-career-3622.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3622.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3622.webp",
+      "width": 960,
+      "height": 1598,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Domestic"
+      ],
+      "team_franchise": [
+        "Karnataka"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "Domestic and Early Career",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Karnataka · Domestic",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3623",
+      "asset_id": 3623,
+      "filename": "kl-rahul-early-career-3623.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3623.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3623.webp",
+      "width": 900,
+      "height": 506,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Domestic"
+      ],
+      "team_franchise": [
+        "Karnataka"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "Domestic and Early Career",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Karnataka · Domestic",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3624",
+      "asset_id": 3624,
+      "filename": "kl-rahul-early-career-3624.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3624.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3624.webp",
+      "width": 320,
+      "height": 214,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Domestic"
+      ],
+      "team_franchise": [
+        "Karnataka"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Karnataka · Domestic",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3625",
+      "asset_id": 3625,
+      "filename": "kl-rahul-early-career-3625.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3625.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3625.webp",
+      "width": 960,
+      "height": 682,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Domestic"
+      ],
+      "team_franchise": [
+        "Karnataka"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "Domestic and Early Career",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Karnataka · Domestic",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3626",
+      "asset_id": 3626,
+      "filename": "kl-rahul-early-career-3626.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3626.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3626.webp",
+      "width": 600,
+      "height": 450,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Domestic"
+      ],
+      "team_franchise": [
+        "Karnataka"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Karnataka · Domestic",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3627",
+      "asset_id": 3627,
+      "filename": "kl-rahul-early-career-3627.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3627.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3627.webp",
+      "width": 900,
+      "height": 506,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations",
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3628",
+      "asset_id": 3628,
+      "filename": "kl-rahul-early-career-3628.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3628.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3628.webp",
+      "width": 490,
+      "height": 626,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations",
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3629",
+      "asset_id": 3629,
+      "filename": "kl-rahul-early-career-3629.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3629.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3629.webp",
+      "width": 628,
+      "height": 355,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3630",
+      "asset_id": 3630,
+      "filename": "kl-rahul-early-career-3630.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/01_early_career/kl-rahul-early-career-3630.jpg",
+      "public_path": "/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3630.webp",
+      "width": 900,
+      "height": 646,
+      "approximate_career_period": "2010–2016 · domestic foundations and early Tests",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations",
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3631",
+      "asset_id": 3631,
+      "filename": "kl-rahul-india-breakthrough-3631.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3631.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3631.webp",
+      "width": 427,
+      "height": 718,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3632",
+      "asset_id": 3632,
+      "filename": "kl-rahul-india-breakthrough-3632.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3632.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3632.webp",
+      "width": 495,
+      "height": 619,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3633",
+      "asset_id": 3633,
+      "filename": "kl-rahul-india-breakthrough-3633.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3633.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3633.webp",
+      "width": 350,
+      "height": 441,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3634",
+      "asset_id": 3634,
+      "filename": "kl-rahul-india-breakthrough-3634.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3634.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3634.webp",
+      "width": 806,
+      "height": 605,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3635",
+      "asset_id": 3635,
+      "filename": "kl-rahul-india-breakthrough-3635.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3635.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3635.webp",
+      "width": 686,
+      "height": 386,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "T20I"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "T20I",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · T20I",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3636",
+      "asset_id": 3636,
+      "filename": "kl-rahul-india-breakthrough-3636.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3636.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3636.webp",
+      "width": 900,
+      "height": 585,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "RCB"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "RCB"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "RCB · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3637",
+      "asset_id": 3637,
+      "filename": "kl-rahul-india-breakthrough-3637.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3637.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3637.webp",
+      "width": 447,
+      "height": 447,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "RCB"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Off-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "RCB",
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "RCB · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3638",
+      "asset_id": 3638,
+      "filename": "kl-rahul-india-breakthrough-3638.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3638.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3638.webp",
+      "width": 800,
+      "height": 572,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3639",
+      "asset_id": 3639,
+      "filename": "kl-rahul-india-breakthrough-3639.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3639.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3639.webp",
+      "width": 743,
+      "height": 413,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "International limited overs"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Training",
+        "Off-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · International limited overs",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3640",
+      "asset_id": 3640,
+      "filename": "kl-rahul-india-breakthrough-3640.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/02_india_breakthrough/kl-rahul-india-breakthrough-3640.jpg",
+      "public_path": "/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3640.webp",
+      "width": 739,
+      "height": 415,
+      "approximate_career_period": "2014–2017 · India breakthrough",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "International limited overs"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Training",
+        "Off-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · International limited overs",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3641",
+      "asset_id": 3641,
+      "filename": "kl-rahul-established-india-3641.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3641.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3641.webp",
+      "width": 1280,
+      "height": 720,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3642",
+      "asset_id": 3642,
+      "filename": "kl-rahul-established-india-3642.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3642.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3642.webp",
+      "width": 759,
+      "height": 422,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Punjab Kings"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Punjab Kings"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Punjab Kings · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3643",
+      "asset_id": 3643,
+      "filename": "kl-rahul-established-india-3643.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3643.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3643.webp",
+      "width": 1920,
+      "height": 1080,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Punjab Kings"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Punjab Kings"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Punjab Kings · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3644",
+      "asset_id": 3644,
+      "filename": "kl-rahul-established-india-3644.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3644.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3644.webp",
+      "width": 926,
+      "height": 519,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Punjab Kings"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Punjab Kings",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Punjab Kings · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3645",
+      "asset_id": 3645,
+      "filename": "kl-rahul-established-india-3645.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3645.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3645.webp",
+      "width": 630,
+      "height": 354,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3646",
+      "asset_id": 3646,
+      "filename": "kl-rahul-established-india-3646.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3646.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3646.webp",
+      "width": 759,
+      "height": 422,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3647",
+      "asset_id": 3647,
+      "filename": "kl-rahul-established-india-3647.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3647.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3647.webp",
+      "width": 960,
+      "height": 540,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3648",
+      "asset_id": 3648,
+      "filename": "kl-rahul-established-india-3648.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3648.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3648.webp",
+      "width": 1200,
+      "height": 630,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3649",
+      "asset_id": 3649,
+      "filename": "kl-rahul-established-india-3649.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3649.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3649.webp",
+      "width": 759,
+      "height": 422,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3650",
+      "asset_id": 3650,
+      "filename": "kl-rahul-established-india-3650.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3650.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3650.webp",
+      "width": 1200,
+      "height": 675,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3651",
+      "asset_id": 3651,
+      "filename": "kl-rahul-established-india-3651.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3651.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3651.webp",
+      "width": 1200,
+      "height": 900,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Wicketkeeping"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3652",
+      "asset_id": 3652,
+      "filename": "kl-rahul-established-india-3652.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3652.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3652.webp",
+      "width": 1200,
+      "height": 675,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3653",
+      "asset_id": 3653,
+      "filename": "kl-rahul-established-india-3653.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/03_established_india/kl-rahul-established-india-3653.jpg",
+      "public_path": "/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3653.webp",
+      "width": 1296,
+      "height": 729,
+      "approximate_career_period": "2018–2021 · established multi-format career",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3654",
+      "asset_id": 3654,
+      "filename": "kl-rahul-captaincy-and-lsg-3654.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3654.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3654.webp",
+      "width": 739,
+      "height": 415,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Punjab Kings"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Punjab Kings"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Punjab Kings · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3655",
+      "asset_id": 3655,
+      "filename": "kl-rahul-captaincy-and-lsg-3655.png",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3655.png",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3655.webp",
+      "width": 1024,
+      "height": 576,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Punjab Kings"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Punjab Kings",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Punjab Kings · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3656",
+      "asset_id": 3656,
+      "filename": "kl-rahul-captaincy-and-lsg-3656.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3656.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3656.webp",
+      "width": 806,
+      "height": 605,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3657",
+      "asset_id": 3657,
+      "filename": "kl-rahul-captaincy-and-lsg-3657.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3657.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3657.webp",
+      "width": 399,
+      "height": 501,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Century/Celebration",
+        "Off-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Off Field",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3658",
+      "asset_id": 3658,
+      "filename": "kl-rahul-captaincy-and-lsg-3658.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3658.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3658.webp",
+      "width": 452,
+      "height": 678,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3659",
+      "asset_id": 3659,
+      "filename": "kl-rahul-captaincy-and-lsg-3659.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3659.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3659.webp",
+      "width": 900,
+      "height": 506,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3660",
+      "asset_id": 3660,
+      "filename": "kl-rahul-captaincy-and-lsg-3660.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3660.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3660.webp",
+      "width": 676,
+      "height": 453,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "LSG",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "LSG · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3661",
+      "asset_id": 3661,
+      "filename": "kl-rahul-captaincy-and-lsg-3661.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3661.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3661.webp",
+      "width": 678,
+      "height": 452,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "LSG",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "LSG · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3662",
+      "asset_id": 3662,
+      "filename": "kl-rahul-captaincy-and-lsg-3662.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3662.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3662.webp",
+      "width": 3201,
+      "height": 4800,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "LSG"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "LSG · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3663",
+      "asset_id": 3663,
+      "filename": "kl-rahul-captaincy-and-lsg-3663.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3663.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3663.webp",
+      "width": 739,
+      "height": 415,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "LSG",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "LSG · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3664",
+      "asset_id": 3664,
+      "filename": "kl-rahul-captaincy-and-lsg-3664.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3664.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3664.webp",
+      "width": 1296,
+      "height": 729,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "LSG"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "LSG · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3665",
+      "asset_id": 3665,
+      "filename": "kl-rahul-captaincy-and-lsg-3665.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3665.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3665.webp",
+      "width": 766,
+      "height": 1269,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "LSG"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "LSG · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3666",
+      "asset_id": 3666,
+      "filename": "kl-rahul-captaincy-and-lsg-3666.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3666.jpg",
+      "public_path": "/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3666.webp",
+      "width": 739,
+      "height": 415,
+      "approximate_career_period": "2020–2023 · franchise leadership",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "LSG",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "LSG · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3667",
+      "asset_id": 3667,
+      "filename": "kl-rahul-comeback-and-world-cup-3667.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3667.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3667.webp",
+      "width": 350,
+      "height": 488,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "International limited overs"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Off-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · International limited overs",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3668",
+      "asset_id": 3668,
+      "filename": "kl-rahul-comeback-and-world-cup-3668.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3668.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3668.webp",
+      "width": 1200,
+      "height": 800,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3669",
+      "asset_id": 3669,
+      "filename": "kl-rahul-comeback-and-world-cup-3669.webp",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3669.webp",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3669.webp",
+      "width": 1280,
+      "height": 720,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3670",
+      "asset_id": 3670,
+      "filename": "kl-rahul-comeback-and-world-cup-3670.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3670.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3670.webp",
+      "width": 690,
+      "height": 388,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3671",
+      "asset_id": 3671,
+      "filename": "kl-rahul-comeback-and-world-cup-3671.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3671.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3671.webp",
+      "width": 1200,
+      "height": 675,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3672",
+      "asset_id": 3672,
+      "filename": "kl-rahul-comeback-and-world-cup-3672.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3672.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3672.webp",
+      "width": 667,
+      "height": 460,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Wicketkeeping"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3673",
+      "asset_id": 3673,
+      "filename": "kl-rahul-comeback-and-world-cup-3673.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3673.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3673.webp",
+      "width": 480,
+      "height": 640,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3674",
+      "asset_id": 3674,
+      "filename": "kl-rahul-comeback-and-world-cup-3674.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3674.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3674.webp",
+      "width": 1600,
+      "height": 900,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Wicketkeeping"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3675",
+      "asset_id": 3675,
+      "filename": "kl-rahul-comeback-and-world-cup-3675.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3675.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3675.webp",
+      "width": 320,
+      "height": 427,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3676",
+      "asset_id": 3676,
+      "filename": "kl-rahul-comeback-and-world-cup-3676.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3676.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3676.webp",
+      "width": 736,
+      "height": 1308,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3677",
+      "asset_id": 3677,
+      "filename": "kl-rahul-comeback-and-world-cup-3677.webp",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3677.webp",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3677.webp",
+      "width": 4800,
+      "height": 3161,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3679",
+      "asset_id": 3679,
+      "filename": "kl-rahul-comeback-and-world-cup-3679.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3679.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3679.webp",
+      "width": 1011,
+      "height": 677,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Wicketkeeping"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3680",
+      "asset_id": 3680,
+      "filename": "kl-rahul-comeback-and-world-cup-3680.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3680.jpg",
+      "public_path": "/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3680.webp",
+      "width": 1280,
+      "height": 720,
+      "approximate_career_period": "2023 · comeback and World Cup",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3681",
+      "asset_id": 3681,
+      "filename": "kl-rahul-current-chapter-3681.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3681.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3681.webp",
+      "width": 1920,
+      "height": 1298,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3682",
+      "asset_id": 3682,
+      "filename": "kl-rahul-current-chapter-3682.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3682.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3682.webp",
+      "width": 1200,
+      "height": 675,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3683",
+      "asset_id": 3683,
+      "filename": "kl-rahul-current-chapter-3683.png",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3683.png",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3683.webp",
+      "width": 1600,
+      "height": 900,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3684",
+      "asset_id": 3684,
+      "filename": "kl-rahul-current-chapter-3684.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3684.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3684.webp",
+      "width": 4500,
+      "height": 3001,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3685",
+      "asset_id": 3685,
+      "filename": "kl-rahul-current-chapter-3685.webp",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3685.webp",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3685.webp",
+      "width": 960,
+      "height": 640,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3686",
+      "asset_id": 3686,
+      "filename": "kl-rahul-current-chapter-3686.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3686.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3686.webp",
+      "width": 1279,
+      "height": 720,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3687",
+      "asset_id": 3687,
+      "filename": "kl-rahul-current-chapter-3687.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3687.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3687.webp",
+      "width": 512,
+      "height": 598,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Delhi Capitals"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Delhi Capitals",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Delhi Capitals · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3688",
+      "asset_id": 3688,
+      "filename": "kl-rahul-current-chapter-3688.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3688.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3688.webp",
+      "width": 670,
+      "height": 458,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Delhi Capitals"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Delhi Capitals"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Delhi Capitals · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3689",
+      "asset_id": 3689,
+      "filename": "kl-rahul-current-chapter-3689.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3689.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3689.webp",
+      "width": 739,
+      "height": 415,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Delhi Capitals"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Delhi Capitals",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Delhi Capitals · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3690",
+      "asset_id": 3690,
+      "filename": "kl-rahul-current-chapter-3690.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3690.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3690.webp",
+      "width": 1200,
+      "height": 738,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Delhi Capitals"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Delhi Capitals",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Delhi Capitals · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3691",
+      "asset_id": 3691,
+      "filename": "kl-rahul-current-chapter-3691.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3691.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3691.webp",
+      "width": 1200,
+      "height": 800,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Delhi Capitals"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "IPL",
+        "Delhi Capitals",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Delhi Capitals · IPL",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3692",
+      "asset_id": 3692,
+      "filename": "kl-rahul-current-chapter-3692.webp",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3692.webp",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3692.webp",
+      "width": 900,
+      "height": 600,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3693",
+      "asset_id": 3693,
+      "filename": "kl-rahul-current-chapter-3693.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3693.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3693.webp",
+      "width": 1600,
+      "height": 900,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "International limited overs"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Training",
+        "Off-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · International limited overs",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3694",
+      "asset_id": 3694,
+      "filename": "kl-rahul-current-chapter-3694.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3694.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3694.webp",
+      "width": 480,
+      "height": 640,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "ODI",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · ODI",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3695",
+      "asset_id": 3695,
+      "filename": "kl-rahul-current-chapter-3695.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3695.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3695.webp",
+      "width": 1080,
+      "height": 2205,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3696",
+      "asset_id": 3696,
+      "filename": "kl-rahul-current-chapter-3696.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3696.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3696.webp",
+      "width": 1200,
+      "height": 675,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3697",
+      "asset_id": 3697,
+      "filename": "kl-rahul-current-chapter-3697.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3697.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3697.webp",
+      "width": 1280,
+      "height": 720,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3698",
+      "asset_id": 3698,
+      "filename": "kl-rahul-current-chapter-3698.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3698.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3698.webp",
+      "width": 1600,
+      "height": 900,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3699",
+      "asset_id": 3699,
+      "filename": "kl-rahul-current-chapter-3699.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3699.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3699.webp",
+      "width": 800,
+      "height": 450,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "Century/Celebration",
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "pack-3700",
+      "asset_id": 3700,
+      "filename": "kl-rahul-current-chapter-3700.jpg",
+      "source_collection": "KL_Rahul_Codex_Asset_Pack",
+      "source_path": "_asset_pack/KL_Rahul_Codex_Asset_Pack/01_originals_renamed/06_current_chapter/kl-rahul-current-chapter-3700.jpg",
+      "public_path": "/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3700.webp",
+      "width": 1600,
+      "height": 900,
+      "approximate_career_period": "2024–present · current chapter",
+      "match_event": "Unverified — era-level photograph",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [
+        "On-field"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India · Test",
+      "notes": "Format/team identified visually where the kit is distinctive; exact match is not claimed."
+    },
+    {
+      "id": "old-01",
+      "asset_id": null,
+      "filename": "1f65a1f37eaae9d258f8ad662632b0c4.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/1f65a1f37eaae9d258f8ad662632b0c4.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-01-1f65a1f37eaae9d258f8ad662632b0c4.webp",
+      "width": 736,
+      "height": 1308,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · formal appearance",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-02",
+      "asset_id": null,
+      "filename": "42c89b9ddd8845c62f19f48951dd9ec6.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/42c89b9ddd8845c62f19f48951dd9ec6.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-02-42c89b9ddd8845c62f19f48951dd9ec6.webp",
+      "width": 736,
+      "height": 981,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · lifestyle",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-03",
+      "asset_id": null,
+      "filename": "53661033ce99a0b5fbad5604d58540fb.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/53661033ce99a0b5fbad5604d58540fb.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-03-53661033ce99a0b5fbad5604d58540fb.webp",
+      "width": 736,
+      "height": 901,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · lifestyle",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-04",
+      "asset_id": null,
+      "filename": "64e66dfd4d7fecb8f7eca85270c858d2.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/64e66dfd4d7fecb8f7eca85270c858d2.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-04-64e66dfd4d7fecb8f7eca85270c858d2.webp",
+      "width": 736,
+      "height": 1307,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · stadium portrait",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-05",
+      "asset_id": null,
+      "filename": "6c7739ab919b19dd7b77d54496649dcd.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/6c7739ab919b19dd7b77d54496649dcd.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-05-6c7739ab919b19dd7b77d54496649dcd.webp",
+      "width": 736,
+      "height": 1307,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · lifestyle collage",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-06",
+      "asset_id": null,
+      "filename": "901e2fabea29f2b651c1b256c767066e.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/901e2fabea29f2b651c1b256c767066e.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-06-901e2fabea29f2b651c1b256c767066e.webp",
+      "width": 750,
+      "height": 923,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · formal appearance",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-07",
+      "asset_id": null,
+      "filename": "9319fba70095d5f4a228f4428a6edefc.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/9319fba70095d5f4a228f4428a6edefc.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-07-9319fba70095d5f4a228f4428a6edefc.webp",
+      "width": 735,
+      "height": 1033,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · portrait",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-08",
+      "asset_id": null,
+      "filename": "940fab59829584aec58b465b569319f4.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/940fab59829584aec58b465b569319f4.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-08-940fab59829584aec58b465b569319f4.webp",
+      "width": 736,
+      "height": 1308,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · Test",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-09",
+      "asset_id": null,
+      "filename": "9c3f93a6fd25993c8ece7c217ed6b9e0.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/9c3f93a6fd25993c8ece7c217ed6b9e0.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-09-9c3f93a6fd25993c8ece7c217ed6b9e0.webp",
+      "width": 735,
+      "height": 1103,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "International limited overs"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · white-ball celebration",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-10",
+      "asset_id": null,
+      "filename": "a08d5415d30cd7ad94956efd784d8f7d.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/a08d5415d30cd7ad94956efd784d8f7d.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-10-a08d5415d30cd7ad94956efd784d8f7d.webp",
+      "width": 1080,
+      "height": 1439,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · formal appearance",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-11",
+      "asset_id": null,
+      "filename": "a17cbead54dbb4a4a6946eb6bf80de1f.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/a17cbead54dbb4a4a6946eb6bf80de1f.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-11-a17cbead54dbb4a4a6946eb6bf80de1f.webp",
+      "width": 736,
+      "height": 1308,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · current Test chapter",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-12",
+      "asset_id": null,
+      "filename": "a9926b2f63597bb95235f5a5ae27f151.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/a9926b2f63597bb95235f5a5ae27f151.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-12-a9926b2f63597bb95235f5a5ae27f151.webp",
+      "width": 735,
+      "height": 892,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · lifestyle",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-13",
+      "asset_id": null,
+      "filename": "ac505ad3b8fc65fa5b81673e903cd6fe.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/ac505ad3b8fc65fa5b81673e903cd6fe.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-13-ac505ad3b8fc65fa5b81673e903cd6fe.webp",
+      "width": 720,
+      "height": 1104,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "International limited overs"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · white-ball celebration",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-14",
+      "asset_id": null,
+      "filename": "download (1).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/download (1).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-14-download-1.webp",
+      "width": 412,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · Test trophy",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-15",
+      "asset_id": null,
+      "filename": "download.png",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/download.png",
+      "public_path": "/images/rahul/combined/original-collection/old-15-download.webp",
+      "width": 1152,
+      "height": 2048,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Test",
+        "IPL"
+      ],
+      "team_franchise": [
+        "India",
+        "Delhi Capitals"
+      ],
+      "field_context": "mixed",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "IPL",
+        "Delhi Capitals",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Mixed editorial collage · Test and Delhi Capitals",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-16",
+      "asset_id": null,
+      "filename": "download.webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/download.webp",
+      "public_path": "/images/rahul/combined/original-collection/old-16-download.webp",
+      "width": 429,
+      "height": 241,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Delhi Capitals"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "IPL",
+        "Delhi Capitals"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "IPL · Delhi Capitals",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-17",
+      "asset_id": null,
+      "filename": "f03bbc8d879065bdf89957e2b87d6882.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/f03bbc8d879065bdf89957e2b87d6882.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-17-f03bbc8d879065bdf89957e2b87d6882.webp",
+      "width": 736,
+      "height": 981,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Delhi Capitals"
+      ],
+      "field_context": "off-field",
+      "classification": [],
+      "gallery_filters": [
+        "IPL",
+        "Delhi Capitals",
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "IPL · Delhi Capitals arrival",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-18",
+      "asset_id": null,
+      "filename": "f8344e59a302c072f2169e9ac51f1ad4.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/f8344e59a302c072f2169e9ac51f1ad4.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-18-f8344e59a302c072f2169e9ac51f1ad4.webp",
+      "width": 736,
+      "height": 769,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · lifestyle",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-19",
+      "asset_id": null,
+      "filename": "f93486a9be415c7904fc434d7f4d3cc3.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/f93486a9be415c7904fc434d7f4d3cc3.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-19-f93486a9be415c7904fc434d7f4d3cc3.webp",
+      "width": 736,
+      "height": 887,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "RCB",
+        "Delhi Capitals"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "IPL",
+        "RCB",
+        "Delhi Capitals"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "IPL · RCB and Delhi Capitals collage",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-20",
+      "asset_id": null,
+      "filename": "fcc80057e298a9f6ab13f6c42a37c4dc.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/fcc80057e298a9f6ab13f6c42a37c4dc.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-20-fcc80057e298a9f6ab13f6c42a37c4dc.webp",
+      "width": 736,
+      "height": 1308,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · ODI",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-21",
+      "asset_id": null,
+      "filename": "fe2424c87ce180fb53c4ac07e0e007f2.jpg",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/fe2424c87ce180fb53c4ac07e0e007f2.jpg",
+      "public_path": "/images/rahul/combined/original-collection/old-21-fe2424c87ce180fb53c4ac07e0e007f2.webp",
+      "width": 736,
+      "height": 981,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Delhi Capitals"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "IPL",
+        "Delhi Capitals"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "IPL · Delhi Capitals editorial graphic",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-22",
+      "asset_id": null,
+      "filename": "OIP (1).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (1).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-22-oip-1.webp",
+      "width": 367,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · ODI",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-23",
+      "asset_id": null,
+      "filename": "OIP (10).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (10).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-23-oip-10.webp",
+      "width": 170,
+      "height": 243,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "Punjab Kings"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "IPL",
+        "Punjab Kings"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "IPL · Punjab Kings",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-24",
+      "asset_id": null,
+      "filename": "OIP (11).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (11).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-24-oip-11.webp",
+      "width": 171,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "IPL",
+        "LSG"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "IPL · LSG",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-25",
+      "asset_id": null,
+      "filename": "OIP (12).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (12).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-25-oip-12.webp",
+      "width": 288,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "International limited overs"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · white-ball celebration",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-26",
+      "asset_id": null,
+      "filename": "OIP (13).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (13).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-26-oip-13.webp",
+      "width": 171,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "International"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Early international career",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-27",
+      "asset_id": null,
+      "filename": "OIP (14).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (14).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-27-oip-14.webp",
+      "width": 215,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "RCB"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "IPL",
+        "RCB",
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "IPL · early RCB chapter",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-28",
+      "asset_id": null,
+      "filename": "OIP (15).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (15).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-28-oip-15.webp",
+      "width": 378,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Domestic"
+      ],
+      "team_franchise": [
+        "Karnataka"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "Domestic and Early Career"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Domestic · Karnataka",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-29",
+      "asset_id": null,
+      "filename": "OIP (16).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (16).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-29-oip-16.webp",
+      "width": 393,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · lifestyle collage",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-30",
+      "asset_id": null,
+      "filename": "OIP (17).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (17).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-30-oip-17.webp",
+      "width": 417,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "T20I"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "T20I"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · T20I",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-31",
+      "asset_id": null,
+      "filename": "OIP (2).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (2).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-31-oip-2.webp",
+      "width": 358,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Training"
+      ],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · Test training",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-32",
+      "asset_id": null,
+      "filename": "OIP (3).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (3).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-32-oip-3.webp",
+      "width": 430,
+      "height": 241,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Test"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · Test",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-33",
+      "asset_id": null,
+      "filename": "OIP (4).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (4).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-33-oip-4.webp",
+      "width": 388,
+      "height": 241,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "International"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Training",
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "International",
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "India training portrait",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-34",
+      "asset_id": null,
+      "filename": "OIP (5).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (5).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-34-oip-5.webp",
+      "width": 396,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "IPL"
+      ],
+      "team_franchise": [
+        "LSG"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "IPL",
+        "LSG"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "IPL · LSG",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-35",
+      "asset_id": null,
+      "filename": "OIP (6).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (6).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-35-oip-6.webp",
+      "width": 301,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "ODI"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "ODI"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · ODI",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-36",
+      "asset_id": null,
+      "filename": "OIP (7).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (7).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-36-oip-7.webp",
+      "width": 377,
+      "height": 235,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "International limited overs"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · white-ball celebration",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-37",
+      "asset_id": null,
+      "filename": "OIP (8).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (8).webp",
+      "public_path": "/images/rahul/combined/original-collection/old-37-oip-8.webp",
+      "width": 171,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [],
+      "team_franchise": [],
+      "field_context": "off-field",
+      "classification": [
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "Off Field"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "Off-field · portrait",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-38",
+      "asset_id": null,
+      "filename": "OIP (9).webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP (9).webp",
+      "public_path": null,
+      "width": 423,
+      "height": 235,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "International"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "off-field",
+      "classification": [
+        "Training",
+        "Portrait"
+      ],
+      "gallery_filters": [
+        "International",
+        "Off Field"
+      ],
+      "recommended_sections": [],
+      "currently_used": false,
+      "duplicate_of": "pack-3639",
+      "caption": "India training portrait",
+      "notes": "Same frame as pack-3639; the higher-resolution pack source is used."
+    },
+    {
+      "id": "old-39",
+      "asset_id": null,
+      "filename": "OIP.webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/OIP.webp",
+      "public_path": "/images/rahul/combined/original-collection/old-39-oip.webp",
+      "width": 315,
+      "height": 234,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · current Test chapter",
+      "notes": "Exact event is not claimed."
+    },
+    {
+      "id": "old-40",
+      "asset_id": null,
+      "filename": "th.webp",
+      "source_collection": "Original supplied collection",
+      "source_path": "USEABLE IMAGES/th.webp",
+      "public_path": "/images/rahul/combined/original-collection/old-40-th.webp",
+      "width": 156,
+      "height": 156,
+      "approximate_career_period": "Mixed archive · exact period not supplied",
+      "match_event": "Unverified — visual context only",
+      "event_verified": false,
+      "format": [
+        "Test"
+      ],
+      "team_franchise": [
+        "India"
+      ],
+      "field_context": "on-field",
+      "classification": [],
+      "gallery_filters": [
+        "International",
+        "Test",
+        "Centuries and Celebrations"
+      ],
+      "recommended_sections": [
+        "Gallery"
+      ],
+      "currently_used": true,
+      "duplicate_of": null,
+      "caption": "International · current Test chapter",
+      "notes": "Exact event is not claimed."
+    }
+  ]
+}

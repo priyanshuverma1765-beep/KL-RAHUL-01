@@ -1,0 +1,3 @@
+module.exports=[78141,a=>{"use strict";var b=a.i(52617),c=a.i(86911);a.s(["default",0,function({error:a,reset:d}){return(0,c.useEffect)(()=>{console.error(a)},[a]),(0,b.jsx)("main",{className:"error-page",children:(0,b.jsxs)("div",{children:[(0,b.jsx)("span",{children:"Archive error"}),(0,b.jsx)("h1",{children:"PLAY INTERRUPTED."}),(0,b.jsx)("p",{children:"Something unexpected stopped this view. Retry the section without losing the rest of the archive."}),(0,b.jsx)("button",{type:"button",onClick:d,children:"Try again"})]})})}])}];
+
+//# sourceMappingURL=app_error_tsx_20-epnw._.js.map

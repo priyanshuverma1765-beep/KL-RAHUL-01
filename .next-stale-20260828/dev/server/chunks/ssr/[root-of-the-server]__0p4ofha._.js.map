@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/priya/OneDrive/Desktop/KLRAHUL01/app/page.tsx"],"sourcesContent":["import { ArchiveExperience } from \"@/components/archive-experience\";\n\nexport default function Page() { return <ArchiveExperience />; }\n"],"names":["Page","ArchiveExperience"],"mappings":";;;;;;;;;;;;AAEe,SAASA;IAAS,qBAAO,6VAACC;;;;;AAAsB"}}]
+}

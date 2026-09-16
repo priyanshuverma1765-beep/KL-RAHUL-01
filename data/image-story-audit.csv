@@ -1,0 +1,55 @@
+section,story_or_record,image,required_visual_context,exact_event_verified,claim_level,audit_result
+Hero,Accepted hero composition,/images/rahul/hero/kl-main-centered-v5.png,India limited-overs portrait,false,General hero context,Pass
+Journey background,Chronological journey introduction,/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3677.webp,India 2023 ODI era with desktop negative space,false,Format-and-era-level,Pass
+Journey,01 · Karnataka foundations,/images/rahul/verified/30-karnataka-domestic-trophies.webp,Karnataka domestic trophies,true,Team-and-event-level,Pass
+Journey,02 · India call-up and Melbourne Test debut,/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3626.webp,India cap presentation at the Melbourne debut,true,Exact-event-level,Pass
+Journey,03 · Sydney breakthrough,/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3627.webp,Early India Test bat raise,false,Format-and-era-level,Pass
+Journey,04 · ODI debut hundred,/images/rahul/verified/10-india-white-ball-2016-zimbabwe-era.webp,Zimbabwe ODI series and debut hundred context,true,Series-and-event-level,Pass
+Journey,05 · T20I debut to Florida 110*,/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3635.webp,India 2016 Florida T20I hundred,true,Exact-event-level,Pass
+Journey,06 · RCB emergence,/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3636.webp,RCB IPL batting,false,Franchise-and-era-level,Pass
+Journey,07 · England to World Cup rise,/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3649.webp,India 2019 ODI World Cup century against Sri Lanka,true,Exact-event-level,Pass
+Journey,08 · Punjab runs and responsibility,/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3655.webp,Punjab IPL kit,false,Franchise-and-era-level,Pass
+Journey,09 · T20 World Cups 2021–2022,/images/rahul/verified/35-t20-world-cup-2021-shaheen-dismissal.webp,India 2021 T20 World Cup,true,Exact-event-level,Pass
+Journey,10 · T20I absence,/images/rahul/verified/19-india-white-ball-dismissal.webp,India limited-overs difficult phase,false,Format-and-era-level,Pass
+Journey,11 · Wedding,/images/rahul/combined/original-collection/old-01-1f65a1f37eaae9d258f8ad662632b0c4.webp,KL Rahul and Athiya Shetty wedding ceremony,true,Exact-event-level,Pass
+Journey,12 · LSG and 2023 injury,/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3664.webp,LSG on-field injury treatment,false,Scenario-and-franchise-level,Pass
+Journey,13 · Asia Cup comeback 111*,/images/rahul/verified/36-asia-cup-2023-pakistan-111.webp,India 2023 Asia Cup,true,Exact-event-level,Pass
+Journey,14 · 2023 World Cup finalist,/images/rahul/archive/gallery/05_comeback_and_world_cup/kl-rahul-comeback-and-world-cup-3674.webp,India 2023 ODI World Cup wicketkeeping,false,Format-era-and-role-level,Pass
+Journey,15 · India moves on in T20Is,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3692.webp,Current India ODI kit outside the T20I side,false,Format-and-era-level,Pass
+Journey,16 · Champions Trophy winner,/images/rahul/combined/original-collection/old-04-64e66dfd4d7fecb8f7eca85270c858d2.webp,KL Rahul selfie biting his 2025 Champions Trophy winners medal,true,Exact-event-level,Pass
+Journey,17 · Delhi resurgence,/images/rahul/verified/03-delhi-capitals-2025-wave.webp,Delhi Capitals 2025,false,Franchise-and-era-level,Pass
+Journey,18 · England red-ball renewal,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3698.webp,India 2025 Test whites,false,Format-and-era-level,Pass
+Journey,19 · IPL 2026 152*,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3691.webp,Delhi Capitals current IPL kit,false,Franchise-and-era-level,Pass
+Century Vault,2015-01-06 · 110 vs Australia · Test,/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3627.webp,Sydney Test celebration,true,Exact-event-level,Pass
+Century Vault,2015-08-20 · 108 vs Sri Lanka · Test,/images/rahul/verified/13-early-test-century-celebration.webp,Early India Test celebration,false,Format-and-era-level fallback,Pass
+Century Vault,2016-07-30 · 158 vs West Indies · Test,/images/rahul/archive/gallery/01_early_career/kl-rahul-early-career-3630.webp,Sabina Park Test celebration,true,Exact-event-level,Pass
+Century Vault,2016-12-16 · 199 vs England · Test,/images/rahul/verified/42-chennai-2016-199-bcci.jpg,Chennai Test century celebration from the exact innings,true,Exact-event-level,Pass
+Century Vault,2018-09-07 · 149 vs England · Test,/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3645.webp,India 2018 England Test series,false,Series-level fallback,Pass
+Century Vault,2021-08-12 · 129 vs England · Test,/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3656.webp,Lord's Test bat raise,true,Exact-event-level,Pass
+Century Vault,2021-12-26 · 123 vs South Africa · Test,/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3659.webp,Centurion Test celebration,true,Exact-event-level,Pass
+Century Vault,2023-12-26 · 101 vs South Africa · Test,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3682.webp,Centurion Test celebration,true,Exact-event-level,Pass
+Century Vault,2025-06-20 · 137 vs England · Test,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3698.webp,Headingley Test celebration,true,Exact-event-level,Pass
+Century Vault,2025-07-10 · 100 vs England · Test,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3697.webp,Lord's 2025 England Cricket century graphic,true,Event-specific,Pass
+Century Vault,2025-10-02 · 100 vs West Indies · Test,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3699.webp,Ahmedabad Test bat raise,true,Exact-event-level,Pass
+Century Vault,2016-06-11 · 100 vs Zimbabwe · ODI,/images/rahul/verified/10-india-white-ball-2016-zimbabwe-era.webp,Zimbabwe ODI debut-century phase,false,Series-level,Pass
+Century Vault,2019-07-06 · 111 vs Sri Lanka · ODI,/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3649.webp,2019 World Cup century celebration against Sri Lanka,true,Exact-event-level,Pass
+Century Vault,2019-12-18 · 102 vs West Indies · ODI,/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3647.webp,India 2019 ODI bat raise,false,Format-and-era-level fallback,Pass
+Century Vault,2020-02-11 · 112 vs New Zealand · ODI,/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3652.webp,Bay Oval ODI celebration,true,Exact-event-level,Pass
+Century Vault,2021-03-26 · 108 vs England · ODI,/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3653.webp,Pune ODI celebration,true,Exact-event-level,Pass
+Century Vault,2023-09-10 · 111 vs Pakistan · ODI,/images/rahul/verified/36-asia-cup-2023-pakistan-111.webp,2023 Asia Cup celebration,true,Exact-event-level,Pass
+Century Vault,2023-11-12 · 102 vs Netherlands · ODI,/images/rahul/verified/02-2019-world-cup-century-celebration.webp,Bengaluru 2023 World Cup century celebration,true,Exact-event-level,Pass
+Century Vault,2026-01-14 · 112 vs New Zealand · ODI,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3694.webp,Rajkot ODI celebration,true,Event-matched,Pass
+Century Vault,2016-08-27 · 110 vs West Indies · T20I,/images/rahul/archive/gallery/02_india_breakthrough/kl-rahul-india-breakthrough-3635.webp,Florida T20I celebration,true,Exact-event-level,Pass
+Century Vault,2018-07-03 · 101 vs England · T20I,/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3641.webp,Manchester T20I celebration,true,Exact-event-level,Pass
+Century Vault,2019-04-10 · 100 vs Mumbai Indians · IPL,/images/rahul/archive/gallery/03_established_india/kl-rahul-established-india-3642.webp,Punjab 2019 IPL bat raise,false,Franchise-and-era-level,Pass
+Century Vault,2020-09-24 · 132 vs RCB · IPL,/images/rahul/verified/18-punjab-kings-2020-ipl-action.webp,Punjab Dubai century celebration,true,Exact-event-level,Pass
+Century Vault,2022-04-16 · 103 vs Mumbai Indians · IPL,/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3661.webp,LSG 2022 Mumbai century celebration,true,Event-specific,Pass
+Century Vault,2022-04-24 · 103 vs Mumbai Indians · IPL,/images/rahul/archive/gallery/04_captaincy_and_lsg/kl-rahul-captaincy-and-lsg-3663.webp,LSG 2022 Mumbai century bat raise,true,Event-specific,Pass
+Century Vault,2025-05-18 · 112 vs Gujarat Titans · IPL,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3687.webp,Delhi Capitals century celebration,true,Exact-event-level,Pass
+Century Vault,2026-04-25 · 152 vs Punjab Kings · IPL,/images/rahul/archive/gallery/06_current_chapter/kl-rahul-current-chapter-3691.webp,Delhi Capitals century celebration,true,Exact-event-level,Pass
+Century Vault,2026-06-06 · 100 vs Afghanistan · Test,/images/rahul/verified/21-current-test-century-with-gill.webp,Afghanistan Test celebration,true,Exact-event-level,Pass
+Stats,Verified career numbers,None,None,n/a,No image attached,Pass
+Analytics,General analytics background,/images/rahul/verified/09-india-blue-editorial-portrait.webp,India limited-overs portrait,false,General section context,Pass
+Records,Verified record cards,None,None,n/a,No image attached,Pass
+Gallery captions,158 valid unique image records,data/merged-image-manifest.json,Merged manifest context,false,Exact or era-format-team confidence per record,Pass
+Closing,Still Writing History,/images/rahul/verified/01-current-india-odi-bat-raise.webp,Current India ODI chapter,false,Format-and-era-level,Pass

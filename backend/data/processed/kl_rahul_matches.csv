@@ -1,0 +1,390 @@
+match_id,date,format,team,opponent,venue,result,batted
+598008,2013-04-11,IPL,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,win,False
+598017,2013-04-16,IPL,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,tie,True
+598042,2013-05-02,IPL,Royal Challengers Bangalore,Pune Warriors,Subrata Roy Sahara Stadium,win,False
+598045,2013-05-14,IPL,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,loss,True
+598068,2013-05-18,IPL,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,win,False
+729285,2014-04-18,IPL,Sunrisers Hyderabad,Rajasthan Royals,Sheikh Zayed Stadium,loss,True
+729295,2014-04-22,IPL,Sunrisers Hyderabad,Kings XI Punjab,Sharjah Cricket Stadium,loss,True
+729301,2014-04-25,IPL,Sunrisers Hyderabad,Delhi Daredevils,Dubai International Cricket Stadium,win,False
+729311,2014-04-27,IPL,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stadium,loss,True
+729317,2014-04-30,IPL,Sunrisers Hyderabad,Mumbai Indians,Dubai International Cricket Stadium,win,True
+733977,2014-05-04,IPL,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadium,loss,True
+733989,2014-05-08,IPL,Sunrisers Hyderabad,Rajasthan Royals,"Sardar Patel Stadium, Motera",win,True
+733993,2014-05-10,IPL,Sunrisers Hyderabad,Delhi Daredevils,Feroz Shah Kotla,win,False
+734001,2014-05-12,IPL,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",loss,True
+734007,2014-05-14,IPL,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",loss,False
+734015,2014-05-18,IPL,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",loss,True
+754741,2014-12-26,Test,India,Australia,Melbourne Cricket Ground,no_result,True
+754743,2015-01-06,Test,India,Australia,Sydney Cricket Ground,no_result,True
+829711,2015-04-11,IPL,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",loss,True
+829719,2015-04-13,IPL,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadium,win,True
+829727,2015-04-16,IPL,Sunrisers Hyderabad,Rajasthan Royals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,loss,True
+829731,2015-04-18,IPL,Sunrisers Hyderabad,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,loss,True
+829743,2015-04-22,IPL,Sunrisers Hyderabad,Kolkata Knight Riders,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,win,True
+829751,2015-04-25,IPL,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,loss,True
+829799,2015-05-11,IPL,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",win,True
+829807,2015-05-15,IPL,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",loss,False
+829815,2015-05-17,IPL,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",loss,True
+895773,2015-08-12,Test,India,Sri Lanka,Galle International Stadium,loss,True
+895775,2015-08-20,Test,India,Sri Lanka,P Sara Oval,win,True
+895777,2015-08-28,Test,India,Sri Lanka,Sinhalese Sports Club Ground,win,True
+980927,2016-04-20,IPL,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,loss,True
+980931,2016-04-22,IPL,Royal Challengers Bangalore,Rising Pune Supergiants,Maharashtra Cricket Association Stadium,win,True
+980937,2016-04-24,IPL,Royal Challengers Bangalore,Gujarat Lions,Saurashtra Cricket Association Stadium,loss,True
+980953,2016-04-30,IPL,Royal Challengers Bangalore,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",loss,True
+980959,2016-05-02,IPL,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,loss,True
+980969,2016-05-07,IPL,Royal Challengers Bangalore,Rising Pune Supergiants,M Chinnaswamy Stadium,win,True
+980977,2016-05-09,IPL,Royal Challengers Bangalore,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",win,True
+980981,2016-05-11,IPL,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,loss,True
+980987,2016-05-14,IPL,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadium,win,False
+980995,2016-05-16,IPL,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,win,False
+980999,2016-05-18,IPL,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,win,True
+981011,2016-05-22,IPL,Royal Challengers Bangalore,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,win,True
+981013,2016-05-24,IPL,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadium,win,True
+981019,2016-05-29,IPL,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,loss,True
+1007649,2016-06-11,ODI,India,Zimbabwe,Harare Sports Club,win,True
+1007651,2016-06-13,ODI,India,Zimbabwe,Harare Sports Club,win,True
+1007653,2016-06-15,ODI,India,Zimbabwe,Harare Sports Club,win,True
+1007655,2016-06-18,T20I,India,Zimbabwe,Harare Sports Club,loss,True
+1007657,2016-06-20,T20I,India,Zimbabwe,Harare Sports Club,win,True
+1007659,2016-06-22,T20I,India,Zimbabwe,Harare Sports Club,win,True
+1022595,2016-07-30,Test,India,West Indies,"Sabina Park, Kingston",no_result,True
+1022597,2016-08-09,Test,India,West Indies,"Darren Sammy National Cricket Stadium, Gros Islet",win,True
+1022599,2016-08-18,Test,India,West Indies,"Queen's Park Oval, Port of Spain",no_result,False
+1041615,2016-08-27,T20I,India,West Indies,Central Broward Regional Park Stadium Turf Ground,loss,True
+1041617,2016-08-28,T20I,India,West Indies,Central Broward Regional Park Stadium Turf Ground,no_result,False
+1030213,2016-09-22,Test,India,New Zealand,Green Park,win,True
+1034811,2016-11-17,Test,India,England,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,win,True
+1034815,2016-12-08,Test,India,England,Wankhede Stadium,win,True
+1034817,2016-12-16,Test,India,England,"MA Chidambaram Stadium, Chepauk",win,True
+1034819,2017-01-15,ODI,India,England,Maharashtra Cricket Association Stadium,win,True
+1034821,2017-01-19,ODI,India,England,Barabati Stadium,win,True
+1034823,2017-01-22,ODI,India,England,Eden Gardens,loss,True
+1034825,2017-01-26,T20I,India,England,Green Park,loss,True
+1034827,2017-01-29,T20I,India,England,"Vidarbha Cricket Association Stadium, Jamtha",win,True
+1034829,2017-02-01,T20I,India,England,M Chinnaswamy Stadium,win,True
+1041761,2017-02-09,Test,India,Bangladesh,"Rajiv Gandhi International Stadium, Uppal",win,True
+1062573,2017-02-23,Test,India,Australia,Maharashtra Cricket Association Stadium,loss,True
+1062574,2017-03-04,Test,India,Australia,M Chinnaswamy Stadium,win,True
+1062575,2017-03-16,Test,India,Australia,JSCA International Stadium Complex,no_result,True
+1062576,2017-03-25,Test,India,Australia,Himachal Pradesh Cricket Association Stadium,win,True
+1109603,2017-08-03,Test,India,Sri Lanka,Sinhalese Sports Club Ground,win,True
+1109604,2017-08-12,Test,India,Sri Lanka,Pallekele International Cricket Stadium,win,True
+1109605,2017-08-20,ODI,India,Sri Lanka,Rangiri Dambulla International Stadium,win,False
+1109606,2017-08-24,ODI,India,Sri Lanka,Pallekele International Cricket Stadium,win,True
+1109607,2017-08-27,ODI,India,Sri Lanka,Pallekele International Cricket Stadium,win,True
+1109608,2017-08-31,ODI,India,Sri Lanka,"R.Premadasa Stadium, Khettarama",win,True
+1109610,2017-09-06,T20I,India,Sri Lanka,"R.Premadasa Stadium, Khettarama",win,True
+1122723,2017-11-16,Test,India,Sri Lanka,Eden Gardens,no_result,True
+1122724,2017-11-24,Test,India,Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",win,True
+1122729,2017-12-20,T20I,India,Sri Lanka,Barabati Stadium,win,True
+1122730,2017-12-22,T20I,India,Sri Lanka,Holkar Cricket Stadium,win,True
+1122731,2017-12-24,T20I,India,Sri Lanka,Wankhede Stadium,win,True
+1122277,2018-01-13,Test,India,South Africa,SuperSport Park,loss,True
+1122278,2018-01-24,Test,India,South Africa,The Wanderers Stadium,win,True
+1133820,2018-03-12,T20I,India,Sri Lanka,"R.Premadasa Stadium, Khettarama",win,True
+1133821,2018-03-14,T20I,India,Bangladesh,"R.Premadasa Stadium, Khettarama",win,False
+1133823,2018-03-18,T20I,India,Bangladesh,"R.Premadasa Stadium, Khettarama",win,True
+1136562,2018-04-08,IPL,Kings XI Punjab,Delhi Daredevils,Punjab Cricket Association IS Bindra Stadium,win,True
+1136568,2018-04-13,IPL,Kings XI Punjab,Royal Challengers Bangalore,M.Chinnaswamy Stadium,loss,True
+1136572,2018-04-15,IPL,Kings XI Punjab,Chennai Super Kings,Punjab Cricket Association IS Bindra Stadium,win,True
+1136576,2018-04-19,IPL,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Association IS Bindra Stadium,win,True
+1136578,2018-04-21,IPL,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,win,True
+1136582,2018-04-23,IPL,Kings XI Punjab,Delhi Daredevils,Arun Jaitley Stadium,win,True
+1136585,2018-04-26,IPL,Kings XI Punjab,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,loss,True
+1136594,2018-05-04,IPL,Kings XI Punjab,Mumbai Indians,Holkar Cricket Stadium,loss,True
+1136598,2018-05-06,IPL,Kings XI Punjab,Rajasthan Royals,Holkar Cricket Stadium,win,True
+1136600,2018-05-08,IPL,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadium,loss,True
+1136604,2018-05-12,IPL,Kings XI Punjab,Kolkata Knight Riders,Holkar Cricket Stadium,loss,True
+1136608,2018-05-14,IPL,Kings XI Punjab,Royal Challengers Bangalore,Holkar Cricket Stadium,loss,True
+1136610,2018-05-16,IPL,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,loss,True
+1136616,2018-05-20,IPL,Kings XI Punjab,Chennai Super Kings,Maharashtra Cricket Association Stadium,loss,True
+1140993,2018-06-29,T20I,India,Ireland,"The Village, Malahide",win,True
+1119543,2018-07-03,T20I,India,England,Old Trafford,win,True
+1119544,2018-07-06,T20I,India,England,Sophia Gardens,loss,True
+1119545,2018-07-08,T20I,India,England,County Ground,win,True
+1119546,2018-07-12,ODI,India,England,Trent Bridge,win,True
+1119547,2018-07-14,ODI,India,England,Lord's,loss,True
+1119549,2018-08-01,Test,India,England,Edgbaston,loss,True
+1119550,2018-08-09,Test,India,England,Lord's,loss,True
+1119551,2018-08-18,Test,India,England,Trent Bridge,win,True
+1119552,2018-08-30,Test,India,England,The Rose Bowl,loss,True
+1119553,2018-09-07,Test,India,England,Kennington Oval,loss,True
+1157752,2018-10-04,Test,India,West Indies,Saurashtra Cricket Association Stadium,win,True
+1157753,2018-10-12,Test,India,West Indies,"Rajiv Gandhi International Stadium, Uppal",win,True
+1157759,2018-11-04,T20I,India,West Indies,Eden Gardens,win,True
+1157760,2018-11-06,T20I,India,West Indies,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,win,True
+1157761,2018-11-11,T20I,India,West Indies,"MA Chidambaram Stadium, Chepauk",win,True
+1144990,2018-11-21,T20I,India,Australia,"Brisbane Cricket Ground, Woolloongabba",loss,True
+1144991,2018-11-23,T20I,India,Australia,Melbourne Cricket Ground,no_result,False
+1144992,2018-11-25,T20I,India,Australia,Sydney Cricket Ground,win,True
+1144993,2018-12-06,Test,India,Australia,Adelaide Oval,win,True
+1144994,2018-12-14,Test,India,Australia,Perth Stadium,loss,True
+1144996,2019-01-03,Test,India,Australia,Sydney Cricket Ground,no_result,True
+1168247,2019-02-24,T20I,India,Australia,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,loss,True
+1168248,2019-02-27,T20I,India,Australia,M.Chinnaswamy Stadium,loss,True
+1168245,2019-03-10,ODI,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",loss,True
+1175359,2019-03-25,IPL,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadium,win,True
+1175361,2019-03-27,IPL,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,loss,True
+1175364,2019-03-30,IPL,Kings XI Punjab,Mumbai Indians,Punjab Cricket Association IS Bindra Stadium,win,True
+1175368,2019-04-01,IPL,Kings XI Punjab,Delhi Capitals,Punjab Cricket Association IS Bindra Stadium,win,True
+1178393,2019-04-06,IPL,Kings XI Punjab,Chennai Super Kings,MA Chidambaram Stadium,loss,True
+1178397,2019-04-08,IPL,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Association IS Bindra Stadium,win,True
+1178399,2019-04-10,IPL,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,loss,True
+1178403,2019-04-13,IPL,Kings XI Punjab,Royal Challengers Bangalore,Punjab Cricket Association IS Bindra Stadium,loss,True
+1178407,2019-04-16,IPL,Kings XI Punjab,Rajasthan Royals,Punjab Cricket Association IS Bindra Stadium,win,True
+1178412,2019-04-20,IPL,Kings XI Punjab,Delhi Capitals,Arun Jaitley Stadium,loss,True
+1178417,2019-04-24,IPL,Kings XI Punjab,Royal Challengers Bangalore,M.Chinnaswamy Stadium,loss,True
+1178423,2019-04-29,IPL,Kings XI Punjab,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,loss,True
+1178427,2019-05-03,IPL,Kings XI Punjab,Kolkata Knight Riders,Punjab Cricket Association IS Bindra Stadium,loss,True
+1178430,2019-05-05,IPL,Kings XI Punjab,Chennai Super Kings,Punjab Cricket Association IS Bindra Stadium,win,True
+1144490,2019-06-05,ODI,India,South Africa,The Rose Bowl,win,True
+1144496,2019-06-09,ODI,India,Australia,Kennington Oval,win,True
+1144504,2019-06-16,ODI,India,Pakistan,Old Trafford,win,True
+1144516,2019-06-27,ODI,India,West Indies,Old Trafford,win,True
+1144520,2019-06-30,ODI,India,England,Edgbaston,loss,True
+1144522,2019-07-02,ODI,India,Bangladesh,Edgbaston,win,True
+1144526,2019-07-06,ODI,India,Sri Lanka,Headingley,win,True
+1144528,2019-07-09,ODI,India,New Zealand,Old Trafford,loss,True
+1188623,2019-08-06,T20I,India,West Indies,"Providence Stadium, Guyana",win,True
+1188628,2019-08-22,Test,India,West Indies,"Sir Vivian Richards Stadium, Antigua",win,True
+1188629,2019-08-30,Test,India,West Indies,"Sabina Park, Jamaica",win,True
+1187013,2019-11-03,T20I,India,Bangladesh,Arun Jaitley Stadium,loss,True
+1187014,2019-11-07,T20I,India,Bangladesh,Saurashtra Cricket Association Stadium,win,True
+1187015,2019-11-10,T20I,India,Bangladesh,"Vidarbha Cricket Association Stadium, Jamtha",win,True
+1187018,2019-12-06,T20I,India,West Indies,"Rajiv Gandhi International Stadium, Uppal",win,True
+1187019,2019-12-08,T20I,India,West Indies,Greenfield International Stadium,loss,True
+1187020,2019-12-11,T20I,India,West Indies,Wankhede Stadium,win,True
+1187021,2019-12-15,ODI,India,West Indies,"MA Chidambaram Stadium, Chepauk",loss,True
+1187022,2019-12-18,ODI,India,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,win,True
+1187023,2019-12-22,ODI,India,West Indies,Barabati Stadium,win,True
+1202243,2020-01-07,T20I,India,Sri Lanka,Holkar Cricket Stadium,win,True
+1202244,2020-01-10,T20I,India,Sri Lanka,Maharashtra Cricket Association Stadium,win,True
+1187027,2020-01-14,ODI,India,Australia,Wankhede Stadium,loss,True
+1187028,2020-01-17,ODI,India,Australia,Saurashtra Cricket Association Stadium,win,True
+1187029,2020-01-19,ODI,India,Australia,M.Chinnaswamy Stadium,win,True
+1187677,2020-01-24,T20I,India,New Zealand,Eden Park,win,True
+1187678,2020-01-26,T20I,India,New Zealand,Eden Park,win,True
+1187679,2020-01-29,T20I,India,New Zealand,Seddon Park,tie,True
+1187680,2020-01-31,T20I,India,New Zealand,Westpac Stadium,tie,True
+1187681,2020-02-02,T20I,India,New Zealand,Bay Oval,win,True
+1187682,2020-02-05,ODI,India,New Zealand,Seddon Park,loss,True
+1187683,2020-02-08,ODI,India,New Zealand,Eden Park,loss,True
+1187684,2020-02-11,ODI,India,New Zealand,Bay Oval,loss,True
+1216493,2020-09-20,IPL,Kings XI Punjab,Delhi Capitals,Dubai International Cricket Stadium,tie,True
+1216510,2020-09-24,IPL,Kings XI Punjab,Royal Challengers Bangalore,Dubai International Cricket Stadium,win,True
+1216527,2020-09-27,IPL,Kings XI Punjab,Rajasthan Royals,Sharjah Cricket Stadium,loss,True
+1216503,2020-10-01,IPL,Kings XI Punjab,Mumbai Indians,Sheikh Zayed Stadium,loss,True
+1216513,2020-10-04,IPL,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,loss,True
+1216542,2020-10-08,IPL,Kings XI Punjab,Sunrisers Hyderabad,Dubai International Cricket Stadium,loss,True
+1216523,2020-10-10,IPL,Kings XI Punjab,Kolkata Knight Riders,Sheikh Zayed Stadium,loss,True
+1216531,2020-10-15,IPL,Kings XI Punjab,Royal Challengers Bangalore,Sharjah Cricket Stadium,win,True
+1216517,2020-10-18,IPL,Kings XI Punjab,Mumbai Indians,Dubai International Cricket Stadium,tie,True
+1216546,2020-10-20,IPL,Kings XI Punjab,Delhi Capitals,Dubai International Cricket Stadium,win,True
+1216498,2020-10-24,IPL,Kings XI Punjab,Sunrisers Hyderabad,Dubai International Cricket Stadium,win,True
+1216520,2020-10-26,IPL,Kings XI Punjab,Kolkata Knight Riders,Sharjah Cricket Stadium,win,True
+1216537,2020-10-30,IPL,Kings XI Punjab,Rajasthan Royals,Sheikh Zayed Stadium,loss,True
+1216506,2020-11-01,IPL,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,loss,True
+1223955,2020-11-27,ODI,India,Australia,Sydney Cricket Ground,loss,True
+1223956,2020-11-29,ODI,India,Australia,Sydney Cricket Ground,loss,True
+1223957,2020-12-02,ODI,India,Australia,Manuka Oval,win,True
+1223952,2020-12-04,T20I,India,Australia,Manuka Oval,win,True
+1223953,2020-12-06,T20I,India,Australia,Sydney Cricket Ground,win,True
+1223954,2020-12-08,T20I,India,Australia,Sydney Cricket Ground,loss,True
+1243388,2021-03-12,T20I,India,England,Narendra Modi Stadium,loss,True
+1243389,2021-03-14,T20I,India,England,Narendra Modi Stadium,win,True
+1243390,2021-03-16,T20I,India,England,Narendra Modi Stadium,loss,True
+1243391,2021-03-18,T20I,India,England,Narendra Modi Stadium,win,True
+1243393,2021-03-23,ODI,India,England,Maharashtra Cricket Association Stadium,win,True
+1243394,2021-03-26,ODI,India,England,Maharashtra Cricket Association Stadium,loss,True
+1243395,2021-03-28,ODI,India,England,Maharashtra Cricket Association Stadium,win,True
+1254061,2021-04-12,IPL,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",win,True
+1254065,2021-04-16,IPL,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai",loss,True
+1254068,2021-04-18,IPL,Punjab Kings,Delhi Capitals,"Wankhede Stadium, Mumbai",loss,True
+1254071,2021-04-21,IPL,Punjab Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",loss,True
+1254074,2021-04-23,IPL,Punjab Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",win,True
+1254078,2021-04-26,IPL,Punjab Kings,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",loss,True
+1254083,2021-04-30,IPL,Punjab Kings,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",win,True
+1239543,2021-08-04,Test,India,England,"Trent Bridge, Nottingham",no_result,True
+1239544,2021-08-12,Test,India,England,"Lord's, London",win,True
+1239545,2021-08-25,Test,India,England,"Headingley, Leeds",loss,True
+1239546,2021-09-02,Test,India,England,"Kennington Oval, London",win,True
+1254111,2021-09-21,IPL,Punjab Kings,Rajasthan Royals,Dubai International Cricket Stadium,loss,True
+1254107,2021-09-25,IPL,Punjab Kings,Sunrisers Hyderabad,Sharjah Cricket Stadium,win,True
+1254099,2021-09-28,IPL,Punjab Kings,Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",loss,True
+1254102,2021-10-01,IPL,Punjab Kings,Kolkata Knight Riders,Dubai International Cricket Stadium,win,True
+1254090,2021-10-03,IPL,Punjab Kings,Royal Challengers Bangalore,Sharjah Cricket Stadium,loss,True
+1254094,2021-10-07,IPL,Punjab Kings,Chennai Super Kings,Dubai International Cricket Stadium,win,True
+1273727,2021-10-24,T20I,India,Pakistan,Dubai International Cricket Stadium,loss,True
+1273739,2021-10-31,T20I,India,New Zealand,Dubai International Cricket Stadium,loss,True
+1273748,2021-11-05,T20I,India,Scotland,Dubai International Cricket Stadium,win,True
+1273753,2021-11-08,T20I,India,Namibia,Dubai International Cricket Stadium,win,True
+1278671,2021-11-17,T20I,India,New Zealand,"Sawai Mansingh Stadium, Jaipur",win,True
+1278672,2021-11-19,T20I,India,New Zealand,"JSCA International Stadium Complex, Ranchi",win,True
+1277079,2021-12-26,Test,India,South Africa,"SuperSport Park, Centurion",win,True
+1277080,2022-01-03,Test,India,South Africa,"The Wanderers Stadium, Johannesburg",loss,True
+1277081,2022-01-11,Test,India,South Africa,"Newlands, Cape Town",loss,True
+1277082,2022-01-19,ODI,India,South Africa,"Boland Park, Paarl",loss,True
+1277083,2022-01-21,ODI,India,South Africa,"Boland Park, Paarl",loss,True
+1277084,2022-01-23,ODI,India,South Africa,"Newlands, Cape Town",loss,True
+1278677,2022-02-09,ODI,India,West Indies,"Narendra Modi Stadium, Ahmedabad",win,True
+1304050,2022-03-28,IPL,Lucknow Super Giants,Gujarat Titans,"Wankhede Stadium, Mumbai",loss,True
+1304053,2022-03-31,IPL,Lucknow Super Giants,Chennai Super Kings,"Brabourne Stadium, Mumbai",win,True
+1304058,2022-04-04,IPL,Lucknow Super Giants,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",win,True
+1304061,2022-04-07,IPL,Lucknow Super Giants,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",win,True
+1304066,2022-04-10,IPL,Lucknow Super Giants,Rajasthan Royals,"Wankhede Stadium, Mumbai",loss,True
+1304072,2022-04-16,IPL,Lucknow Super Giants,Mumbai Indians,"Brabourne Stadium, Mumbai",win,True
+1304077,2022-04-19,IPL,Lucknow Super Giants,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",loss,True
+1304083,2022-04-24,IPL,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",win,True
+1304088,2022-04-29,IPL,Lucknow Super Giants,Punjab Kings,"Maharashtra Cricket Association Stadium, Pune",win,True
+1304091,2022-05-01,IPL,Lucknow Super Giants,Delhi Capitals,"Wankhede Stadium, Mumbai",win,True
+1304099,2022-05-07,IPL,Lucknow Super Giants,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",win,True
+1304103,2022-05-10,IPL,Lucknow Super Giants,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune",loss,True
+1304109,2022-05-15,IPL,Lucknow Super Giants,Rajasthan Royals,"Brabourne Stadium, Mumbai",loss,True
+1304112,2022-05-18,IPL,Lucknow Super Giants,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",win,True
+1312198,2022-05-25,IPL,Lucknow Super Giants,Royal Challengers Bangalore,"Eden Gardens, Kolkata",loss,True
+1325549,2022-08-18,ODI,India,Zimbabwe,Harare Sports Club,win,False
+1325550,2022-08-20,ODI,India,Zimbabwe,Harare Sports Club,win,True
+1325551,2022-08-22,ODI,India,Zimbabwe,Harare Sports Club,win,True
+1327270,2022-08-28,T20I,India,Pakistan,Dubai International Cricket Stadium,win,True
+1327272,2022-08-31,T20I,India,Hong Kong,Dubai International Cricket Stadium,win,True
+1327276,2022-09-04,T20I,India,Pakistan,Dubai International Cricket Stadium,loss,True
+1327277,2022-09-06,T20I,India,Sri Lanka,Dubai International Cricket Stadium,loss,True
+1327503,2022-09-20,T20I,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",loss,True
+1327504,2022-09-23,T20I,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",win,True
+1327505,2022-09-25,T20I,India,Australia,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",win,True
+1327506,2022-09-28,T20I,India,South Africa,"Greenfield International Stadium, Thiruvananthapuram",win,True
+1327507,2022-10-02,T20I,India,South Africa,"Barsapara Cricket Stadium, Guwahati",win,True
+1298150,2022-10-23,T20I,India,Pakistan,Melbourne Cricket Ground,win,True
+1298157,2022-10-27,T20I,India,Netherlands,Sydney Cricket Ground,win,True
+1298164,2022-10-30,T20I,India,South Africa,Perth Stadium,loss,True
+1298169,2022-11-02,T20I,India,Bangladesh,Adelaide Oval,win,True
+1298176,2022-11-06,T20I,India,Zimbabwe,Melbourne Cricket Ground,win,True
+1298178,2022-11-10,T20I,India,England,Adelaide Oval,loss,True
+1340845,2022-12-04,ODI,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",loss,True
+1340846,2022-12-07,ODI,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",loss,True
+1340847,2022-12-10,ODI,India,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",win,True
+1340848,2022-12-14,Test,India,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",win,True
+1340849,2022-12-22,Test,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",win,True
+1348643,2023-01-10,ODI,India,Sri Lanka,"Barsapara Cricket Stadium, Guwahati",win,True
+1348644,2023-01-12,ODI,India,Sri Lanka,"Eden Gardens, Kolkata",win,True
+1348645,2023-01-15,ODI,India,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",win,True
+1348652,2023-02-09,Test,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",win,True
+1348653,2023-02-17,Test,India,Australia,"Arun Jaitley Stadium, Delhi",win,True
+1348656,2023-03-17,ODI,India,Australia,"Wankhede Stadium, Mumbai",win,True
+1348657,2023-03-19,ODI,India,Australia,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",loss,True
+1348658,2023-03-22,ODI,India,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",loss,True
+1359477,2023-04-01,IPL,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1359480,2023-04-03,IPL,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",loss,True
+1359484,2023-04-07,IPL,Lucknow Super Giants,Sunrisers Hyderabad,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1359489,2023-04-10,IPL,Lucknow Super Giants,Royal Challengers Bangalore,"M Chinnaswamy Stadium, Bengaluru",win,True
+1359495,2023-04-15,IPL,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",loss,True
+1359500,2023-04-19,IPL,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",win,True
+1359504,2023-04-22,IPL,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",loss,True
+1359512,2023-04-28,IPL,Lucknow Super Giants,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",win,True
+1359517,2023-05-01,IPL,Lucknow Super Giants,Royal Challengers Bangalore,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",loss,True
+1388406,2023-09-10,ODI,India,Pakistan,"R Premadasa Stadium, Colombo",win,True
+1388407,2023-09-12,ODI,India,Sri Lanka,"R Premadasa Stadium, Colombo",win,True
+1388412,2023-09-15,ODI,India,Bangladesh,"R Premadasa Stadium, Colombo",loss,True
+1388414,2023-09-17,ODI,India,Sri Lanka,"R Premadasa Stadium, Colombo",win,False
+1389388,2023-09-22,ODI,India,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",win,True
+1389389,2023-09-24,ODI,India,Australia,"Holkar Cricket Stadium, Indore",win,True
+1389390,2023-09-27,ODI,India,Australia,"Saurashtra Cricket Association Stadium, Rajkot",loss,True
+1384396,2023-10-08,ODI,India,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",win,True
+1384403,2023-10-14,ODI,India,Pakistan,"Narendra Modi Stadium, Ahmedabad",win,True
+1384408,2023-10-19,ODI,India,Bangladesh,"Maharashtra Cricket Association Stadium, Pune",win,True
+1384412,2023-10-22,ODI,India,New Zealand,"Himachal Pradesh Cricket Association Stadium, Dharamsala",win,True
+1384420,2023-10-29,ODI,India,England,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1384424,2023-11-02,ODI,India,Sri Lanka,"Wankhede Stadium, Mumbai",win,True
+1384428,2023-11-05,ODI,India,South Africa,"Eden Gardens, Kolkata",win,True
+1384436,2023-11-12,ODI,India,Netherlands,"M Chinnaswamy Stadium, Bengaluru",win,True
+1384437,2023-11-15,ODI,India,New Zealand,"Wankhede Stadium, Mumbai",win,True
+1384439,2023-11-19,ODI,India,Australia,"Narendra Modi Stadium, Ahmedabad",loss,True
+1387600,2023-12-17,ODI,India,South Africa,"The Wanderers Stadium, Johannesburg",win,False
+1387601,2023-12-19,ODI,India,South Africa,"St George's Park, Gqeberha",loss,True
+1387602,2023-12-21,ODI,India,South Africa,"Boland Park, Paarl",win,True
+1387603,2023-12-26,Test,India,South Africa,"SuperSport Park, Centurion",loss,True
+1387604,2024-01-03,Test,India,South Africa,"Newlands, Cape Town",win,True
+1389399,2024-01-25,Test,India,England,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",loss,True
+1422122,2024-03-24,IPL,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",loss,True
+1422129,2024-03-30,IPL,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1422133,2024-04-02,IPL,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",win,True
+1422139,2024-04-07,IPL,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1426264,2024-04-12,IPL,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",loss,True
+1426266,2024-04-14,IPL,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",loss,True
+1426272,2024-04-19,IPL,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1426277,2024-04-23,IPL,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",win,True
+1426282,2024-04-27,IPL,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",loss,True
+1426286,2024-04-30,IPL,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1426292,2024-05-05,IPL,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",loss,True
+1426295,2024-05-08,IPL,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",loss,True
+1426302,2024-05-14,IPL,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",loss,True
+1426305,2024-05-17,IPL,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",win,True
+1442990,2024-08-02,ODI,India,Sri Lanka,"R Premadasa Stadium, Colombo",tie,True
+1442991,2024-08-04,ODI,India,Sri Lanka,"R Premadasa Stadium, Colombo",loss,True
+1439891,2024-09-19,Test,India,Bangladesh,"MA Chidambaram Stadium, Chepauk, Chennai",win,True
+1439892,2024-09-27,Test,India,Bangladesh,"Green Park, Kanpur",win,True
+1439896,2024-10-16,Test,India,New Zealand,"M Chinnaswamy Stadium, Bengaluru",loss,True
+1426555,2024-11-22,Test,India,Australia,Perth Stadium,win,True
+1426556,2024-12-06,Test,India,Australia,Adelaide Oval,loss,True
+1426557,2024-12-14,Test,India,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",no_result,True
+1426558,2024-12-26,Test,India,Australia,Melbourne Cricket Ground,loss,True
+1426559,2025-01-03,Test,India,Australia,Sydney Cricket Ground,loss,True
+1439904,2025-02-06,ODI,India,England,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",win,True
+1439905,2025-02-09,ODI,India,England,"Barabati Stadium, Cuttack",win,True
+1439906,2025-02-12,ODI,India,England,"Narendra Modi Stadium, Ahmedabad",win,True
+1466415,2025-02-20,ODI,India,Bangladesh,Dubai International Cricket Stadium,win,True
+1466418,2025-02-23,ODI,India,Pakistan,Dubai International Cricket Stadium,win,False
+1466425,2025-03-02,ODI,India,New Zealand,Dubai International Cricket Stadium,win,True
+1466426,2025-03-04,ODI,India,Australia,Dubai International Cricket Stadium,win,True
+1466428,2025-03-09,ODI,India,New Zealand,Dubai International Cricket Stadium,win,True
+1473447,2025-03-30,IPL,Delhi Capitals,Sunrisers Hyderabad,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",win,True
+1473454,2025-04-05,IPL,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",win,True
+1473461,2025-04-10,IPL,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",win,True
+1473466,2025-04-13,IPL,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",loss,True
+1473469,2025-04-16,IPL,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",tie,True
+1473472,2025-04-19,IPL,Delhi Capitals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",loss,True
+1473477,2025-04-22,IPL,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1473483,2025-04-27,IPL,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",loss,True
+1473485,2025-04-29,IPL,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",loss,True
+1473492,2025-05-05,IPL,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",no_result,True
+1473495,2025-05-08,IPL,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",no_result,False
+1473498,2025-05-18,IPL,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",loss,True
+1473501,2025-05-21,IPL,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",loss,True
+1485779,2025-05-24,IPL,Delhi Capitals,Punjab Kings,"Sawai Mansingh Stadium, Jaipur",win,True
+1448349,2025-06-20,Test,India,England,"Headingley, Leeds",loss,True
+1448350,2025-07-02,Test,India,England,"Edgbaston, Birmingham",win,True
+1448351,2025-07-10,Test,India,England,"Lord's, London",loss,True
+1448352,2025-07-23,Test,India,England,"Old Trafford, Manchester",no_result,True
+1448353,2025-07-31,Test,India,England,"Kennington Oval, London",win,True
+1479569,2025-10-02,Test,India,West Indies,"Narendra Modi Stadium, Ahmedabad",win,True
+1479570,2025-10-10,Test,India,West Indies,"Arun Jaitley Stadium, Delhi",win,True
+1478904,2025-10-19,ODI,India,Australia,Perth Stadium,loss,True
+1478905,2025-10-23,ODI,India,Australia,Adelaide Oval,loss,True
+1478906,2025-10-25,ODI,India,Australia,Sydney Cricket Ground,win,False
+1479571,2025-11-14,Test,India,South Africa,"Eden Gardens, Kolkata",loss,True
+1479572,2025-11-22,Test,India,South Africa,"Barsapara Cricket Stadium, Guwahati",loss,True
+1479573,2025-11-30,ODI,India,South Africa,"JSCA International Stadium Complex, Ranchi",win,True
+1479574,2025-12-03,ODI,India,South Africa,"Shaheed Veer Narayan Singh International Stadium, Raipur",loss,True
+1479575,2025-12-06,ODI,India,South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",win,False
+1490231,2026-01-11,ODI,India,New Zealand,"Kotambi Stadium, Vadodara",win,True
+1490232,2026-01-14,ODI,India,New Zealand,"Niranjan Shah Stadium, Rajkot",loss,True
+1490233,2026-01-18,ODI,India,New Zealand,"Holkar Cricket Stadium, Indore",loss,True
+1527678,2026-04-01,IPL,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",win,True
+1527681,2026-04-04,IPL,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",win,True
+1527687,2026-04-08,IPL,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",loss,True
+1527691,2026-04-11,IPL,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",loss,True
+1529269,2026-04-18,IPL,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",win,True
+1529274,2026-04-21,IPL,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",loss,True
+1529278,2026-04-25,IPL,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",loss,True
+1529282,2026-04-27,IPL,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",loss,True
+1529286,2026-05-01,IPL,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",win,True
+1529291,2026-05-05,IPL,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",loss,True
+1529294,2026-05-08,IPL,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",loss,True
+1529298,2026-05-11,IPL,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",win,True
+1529305,2026-05-17,IPL,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",win,True
+1529313,2026-05-24,IPL,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",win,True
+1496579,2026-07-14,ODI,India,England,"Edgbaston, Birmingham",win,True
+1496581,2026-07-19,ODI,India,England,"Lord's, London",loss,True
+1544001,2026-08-15,Test,India,Sri Lanka,Galle International Stadium,win,True
