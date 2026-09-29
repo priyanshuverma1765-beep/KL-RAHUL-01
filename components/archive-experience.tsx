@@ -5,16 +5,24 @@ import { AnimatePresence, motion, useScroll, useSpring } from "framer-motion";
 import { ArrowRight, ArrowUpRight, Menu, Sparkles, X } from "lucide-react";
 import { useEffect, useState } from "react";
 import { MinimalistHero } from "@/components/ui/minimalist-hero";
-import { JourneySection, StatsSection } from "@/components/sections/journey-stats";
+import { CareerTimelineSection } from "@/components/sections/career-timeline";
+import { CareerSnapshotSection } from "@/components/sections/career-snapshot";
+import { StatsSection } from "@/components/sections/journey-stats";
 import { CenturyVaultSection, GallerySection } from "@/components/sections/century-gallery";
-import { AnalyticsSection, AskKlrSection } from "@/components/sections/analytics-ask";
+import { AnalyticsEnhancedSection } from "@/components/sections/analytics-enhanced";
+import { MatchExplorerSection } from "@/components/sections/match-explorer";
+import { CareerRecordsSection } from "@/components/sections/career-records";
+import { PlayerComparisonSection } from "@/components/sections/player-comparison";
+import { AskKlrSection } from "@/components/sections/analytics-ask";
 
 const navigation = [
   { id: "home", label: "Home" },
   { id: "journey", label: "Journey" },
   { id: "stats", label: "Stats" },
-  { id: "centuries", label: "Century Vault" },
   { id: "analytics", label: "Analytics" },
+  { id: "centuries", label: "Centuries" },
+  { id: "records", label: "Records" },
+  { id: "matches", label: "Matches" },
   { id: "gallery", label: "Gallery" },
   { id: "ask-klr", label: "Ask KLR" },
 ] as const;
@@ -148,10 +156,14 @@ export function ArchiveExperience() {
       <Navigation />
       <main id="main-content">
         <MinimalistHero />
-        <JourneySection />
+        <CareerSnapshotSection />
+        <CareerTimelineSection />
         <StatsSection />
         <CenturyVaultSection />
-        <AnalyticsSection />
+        <AnalyticsEnhancedSection />
+        <CareerRecordsSection />
+        <MatchExplorerSection />
+        <PlayerComparisonSection />
         <GallerySection />
         <AskKlrSection />
         <Finale />

@@ -104,10 +104,10 @@ export function CenturyVaultSection() {
             <h3>vs {current.opponent}</h3>
             <p>{current.venue}</p>
             <div className="innings-context">
-              <span>{current.balls} balls</span>
-              <span>SR {current.strike_rate}</span>
-              <span>{current.fours}×4 · {current.sixes}×6</span>
-              <span>Impact {current.impact_score}</span>
+              <span><strong>{current.balls}</strong> balls</span>
+              <span>SR <strong>{current.strike_rate}</strong></span>
+              <span><strong>{current.fours}</strong>×4 · <strong>{current.sixes}</strong>×6</span>
+              <span className="impact-badge">KLR01 Impact: <strong>{current.impact_score}</strong></span>
             </div>
             {"match_context" in current && <small className="century-match-context">{current.match_context} · {current.milestone}</small>}
             <small className="image-context-note">{currentImage.context}</small>
