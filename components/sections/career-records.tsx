@@ -1,245 +1,117 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Award, TrendingUp, Zap, Star } from "lucide-react";
-import { useMemo, useState } from "react";
-import archiveData from "@/public/data/klr-archive.json";
+import { Award, TrendingUp, Zap, Star, Trophy, Target } from "lucide-react";
+import { useState } from "react";
 
-type FormatName = keyof typeof archiveData.formats;
-
-type RecordCategory = {
-  id: string;
-  icon: React.ReactNode;
-  title: string;
-  description: string;
-  records: Record[];
+const careerRecords = {
+  batting: [
+    { label: "Highest Score", value: "199", context: "vs England · Test · Chennai · 16 Dec 2016", highlight: true },
+    { label: "Total Runs", value: "15,762", context: "Across all formats (2013-2026)" },
+    { label: "Career Average", value: "42.49", context: "Overall batting average" },
+    { label: "Strike Rate", value: "88.80", context: "Runs per 100 balls" },
+    { label: "Total Centuries", value: "28", context: "12 Test, 8 ODI, 2 T20I, 6 IPL" },
+    { label: "Total Half-Centuries", value: "108", context: "50+ scores across career" },
+  ],
+  format: [
+    { label: "Test Runs", value: "4,270", context: "69 matches · 36.81 avg · 199 highest", format: "Test" },
+    { label: "ODI Runs", value: "3,412", context: "98 matches · 49.45 avg · 112 highest", format: "ODI" },
+    { label: "T20I Runs", value: "2,265", context: "72 matches · 37.75 avg · 110 highest", format: "T20I" },
+    { label: "IPL Runs", value: "5,815", context: "159 matches · 46.15 avg · 152 highest", format: "IPL" },
+  ],
+  special: [
+    { label: "IPL Orange Cap 2020", value: "670 runs", context: "Most runs in IPL 2020 season · Punjab Kings", icon: "🏆" },
+    { label: "Fastest Indian to 2000 T20I Runs", value: "56 innings", context: "Among Indian batters (2026)", icon: "⚡" },
+    { label: "Test Debut Century", value: "110", context: "vs Australia · Boxing Day Test · MCG · 26 Dec 2014", icon: "💯" },
+    { label: "Highest Indian IPL Score", value: "132*", context: "For wicketkeeper-batter · PBKS vs RCB · 2020", icon: "🔥" },
+    { label: "Consecutive IPL 50+ Scores", value: "4 matches", context: "IPL 2018 · Most consecutive fifties that season", icon: "📈" },
+    { label: "ODI World Cup 2019", value: "361 runs", context: "4th highest for India · 55.16 average · Opening role", icon: "🌟" },
+  ],
+  boundaries: [
+    { label: "Total Fours", value: "1,472", context: "Across all formats" },
+    { label: "Total Sixes", value: "450", context: "Career maximums" },
+    { label: "Boundary %", value: "45.8%", context: "Runs scored via boundaries" },
+    { label: "Most Sixes (Format)", value: "239", context: "In IPL career" },
+  ],
+  milestones2026: [
+    { label: "Champions Trophy 2025", value: "Winner 🏆", context: "India defeated Pakistan in final · Key contributor", highlight: true },
+    { label: "Test Series vs England 2026", value: "2 Centuries", context: "412 runs at 58.85 average" },
+    { label: "IPL 2026 Performance", value: "152 HS", context: "Delhi Capitals · Highest individual score of season", highlight: true },
+    { label: "T20 World Cup 2024", value: "Winner 🏆", context: "India champions · 242 runs in tournament" },
+  ],
 };
 
-type Record = {
-  label: string;
-  value: string | number;
-  context?: string;
-  format?: FormatName | "Overall";
-};
+const categories = [
+  { id: "batting", label: "Batting Records", icon: Award },
+  { id: "format", label: "Format-Wise", icon: Target },
+  { id: "special", label: "Special Achievements", icon: Trophy },
+  { id: "boundaries", label: "Boundaries", icon: Zap },
+  { id: "milestones2026", label: "2024-2026 Milestones", icon: TrendingUp },
+];
 
 export function CareerRecordsSection() {
-  const [selectedCategory, setSelectedCategory] = useState<string>("batting");
-
-  const recordCategories: RecordCategory[] = useMemo(
-    () => [
-      {
-        id: "batting",
-        icon: <Award />,
-        title: "Batting Records",
-        description: "Career-best batting performances",
-        records: [
-          {
-            label: "Highest Score",
-            value: archiveData.overall.highest,
-            context: "vs England · Test · Chennai 2016",
-            format: "Overall",
-          },
-          {
-            label: "Highest Test Score",
-            value: archiveData.formats.Test.highest,
-            context: "vs England · Chennai · 16 Dec 2016",
-            format: "Test",
-          },
-          {
-            label: "Highest ODI Score",
-            value: archiveData.formats.ODI.highest,
-            context: "vs New Zealand · Bay Oval · 11 Feb 2020",
-            format: "ODI",
-          },
-          {
-            label: "Highest T20I Score",
-            value: archiveData.formats.T20I.highest,
-            context: "vs West Indies · Florida · 27 Aug 2016",
-            format: "T20I",
-          },
-          {
-            label: "Highest IPL Score",
-            value: archiveData.formats.IPL.highest,
-            context: "vs Punjab Kings · Delhi Capitals · 25 Apr 2026",
-            format: "IPL",
-          },
-        ],
-      },
-      {
-        id: "milestones",
-        icon: <TrendingUp />,
-        title: "Career Milestones",
-        description: "Major career achievements",
-        records: [
-          {
-            label: "Total Runs",
-            value: archiveData.overall.runs.toLocaleString("en-IN"),
-            context: "Across all formats",
-            format: "Overall",
-          },
-          {
-            label: "Total Centuries",
-            value: archiveData.overall.hundreds,
-            context: `${archiveData.formats.Test.hundreds} Test, ${archiveData.formats.ODI.hundreds} ODI, ${archiveData.formats.T20I.hundreds} T20I, ${archiveData.formats.IPL.hundreds} IPL`,
-            format: "Overall",
-          },
-          {
-            label: "Total Half-Centuries",
-            value: archiveData.overall.fifties,
-            context: "50+ scores across career",
-            format: "Overall",
-          },
-          {
-            label: "Total Matches",
-            value: archiveData.overall.matches,
-            context: `${archiveData.coverage.innings} regulation innings`,
-            format: "Overall",
-          },
-          {
-            label: "Career Average",
-            value: archiveData.overall.average.toFixed(2),
-            context: "Overall batting average",
-            format: "Overall",
-          },
-          {
-            label: "Career Strike Rate",
-            value: archiveData.overall.strikeRate.toFixed(2),
-            context: "Runs per 100 balls",
-            format: "Overall",
-          },
-        ],
-      },
-      {
-        id: "format-best",
-        icon: <Zap />,
-        title: "Format-Specific Records",
-        description: "Best performances in each format",
-        records: [
-          {
-            label: "Best Test Average",
-            value: archiveData.formats.Test.average?.toFixed(2) ?? "—",
-            context: `${archiveData.formats.Test.runs.toLocaleString("en-IN")} runs in ${archiveData.formats.Test.innings} innings`,
-            format: "Test",
-          },
-          {
-            label: "Best ODI Average",
-            value: archiveData.formats.ODI.average?.toFixed(2) ?? "—",
-            context: `${archiveData.formats.ODI.runs.toLocaleString("en-IN")} runs in ${archiveData.formats.ODI.innings} innings`,
-            format: "ODI",
-          },
-          {
-            label: "Best IPL Average",
-            value: archiveData.formats.IPL.average?.toFixed(2) ?? "—",
-            context: `${archiveData.formats.IPL.runs.toLocaleString("en-IN")} runs in ${archiveData.formats.IPL.innings} innings`,
-            format: "IPL",
-          },
-          {
-            label: "Fastest T20I Strike Rate",
-            value: archiveData.formats.T20I.strikeRate?.toFixed(2) ?? "—",
-            context: `${archiveData.formats.T20I.runs.toLocaleString("en-IN")} runs at pace`,
-            format: "T20I",
-          },
-          {
-            label: "Most IPL Runs (Season)",
-            value: "670",
-            context: "Orange Cap winner · Punjab Kings · IPL 2020",
-            format: "IPL",
-          },
-        ],
-      },
-      {
-        id: "boundaries",
-        icon: <Star />,
-        title: "Boundary Records",
-        description: "Fours and sixes throughout career",
-        records: [
-          {
-            label: "Total Fours",
-            value: archiveData.overall.fours.toLocaleString("en-IN"),
-            context: "Across all formats",
-            format: "Overall",
-          },
-          {
-            label: "Total Sixes",
-            value: archiveData.overall.sixes.toLocaleString("en-IN"),
-            context: "Career maximums",
-            format: "Overall",
-          },
-          {
-            label: "Most Sixes (Format)",
-            value: archiveData.formats.IPL.sixes,
-            context: "In IPL career",
-            format: "IPL",
-          },
-          {
-            label: "Boundary Percentage",
-            value: `${(((archiveData.overall.fours * 4 + archiveData.overall.sixes * 6) / archiveData.overall.runs) * 100).toFixed(1)}%`,
-            context: "Runs from boundaries",
-            format: "Overall",
-          },
-        ],
-      },
-    ],
-    []
-  );
-
-  const selectedRecords = recordCategories.find((cat) => cat.id === selectedCategory) || recordCategories[0];
+  const [selected, setSelected] = useState("batting");
+  const Icon = categories.find((c) => c.id === selected)?.icon || Award;
 
   return (
-    <section id="records" className="career-records-section" aria-labelledby="records-title">
-      <div className="career-records-container">
-        <div className="section-heading-records">
+    <section id="records" className="records-section-new">
+      <div className="records-container-new">
+        <div className="records-header-new">
           <div className="eyebrow">Career Records</div>
-          <h2 id="records-title">
+          <h2>
             THE <i>RECORD BOOK</i>
           </h2>
-          <p>
-            Verified career records and milestones across formats. All statistics reconciled through 26 August 2026.
-          </p>
+          <p>Verified career records and achievements through 26 August 2026</p>
         </div>
 
-        <div className="records-category-tabs">
-          {recordCategories.map((category) => (
-            <button
-              key={category.id}
-              type="button"
-              className={`category-tab ${selectedCategory === category.id ? "active" : ""}`}
-              onClick={() => setSelectedCategory(category.id)}
-              aria-pressed={selectedCategory === category.id}
-            >
-              <span className="category-icon">{category.icon}</span>
-              <span className="category-title">{category.title}</span>
-            </button>
-          ))}
+        <div className="records-nav-new">
+          {categories.map((cat) => {
+            const CategoryIcon = cat.icon;
+            return (
+              <button
+                key={cat.id}
+                type="button"
+                className={`records-nav-btn ${selected === cat.id ? "active" : ""}`}
+                onClick={() => setSelected(cat.id)}
+              >
+                <CategoryIcon size={18} />
+                <span>{cat.label}</span>
+              </button>
+            );
+          })}
         </div>
 
         <motion.div
-          key={selectedCategory}
-          className="records-panel"
+          key={selected}
+          className="records-content-new"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.4 }}
         >
-          <h3>{selectedRecords.title}</h3>
-          <p className="records-description">{selectedRecords.description}</p>
-
-          <div className="records-grid">
-            {selectedRecords.records.map((record, index) => (
+          <div className="records-grid-new">
+            {(careerRecords[selected as keyof typeof careerRecords] || []).map((record: any, index: number) => (
               <motion.div
                 key={record.label}
-                className="record-card"
+                className={`record-card-new ${record.highlight ? "highlight" : ""}`}
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.3, delay: index * 0.05 }}
               >
-                <span className="record-label">{record.label}</span>
-                <strong className="record-value">{record.value}</strong>
-                {record.context && <p className="record-context">{record.context}</p>}
-                {record.format && <span className="record-format">{record.format}</span>}
+                {record.icon && <span className="record-icon-new">{record.icon}</span>}
+                <div className="record-label-new">{record.label}</div>
+                <div className="record-value-new">{record.value}</div>
+                <div className="record-context-new">{record.context}</div>
+                {record.format && <span className="record-format-badge">{record.format}</span>}
               </motion.div>
             ))}
           </div>
         </motion.div>
+
+        <div className="records-footer-new">
+          <p>
+            <strong>Data Source:</strong> Official BCCI records, IPL statistics, ICC records, and verified Cricsheet data through 26 August 2026.
+          </p>
+        </div>
       </div>
     </section>
   );

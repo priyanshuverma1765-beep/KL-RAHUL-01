@@ -4706,17 +4706,19 @@ footer nav a:hover {
 }
 
 .record-card {
-  padding: 24px;
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  border-radius: 4px;
-  background: rgba(7, 8, 9, 0.5);
+  padding: 28px 0;
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 0;
+  background: transparent;
   transition: all 0.3s var(--ease);
 }
 
 .record-card:hover {
-  border-color: rgba(208, 173, 104, 0.3);
-  background: rgba(7, 8, 9, 0.7);
-  transform: translateY(-2px);
+  border-bottom-color: rgba(208, 173, 104, 0.2);
+  background: transparent;
+  transform: none;
+  padding-left: 8px;
 }
 
 .record-label {
@@ -4924,10 +4926,10 @@ footer nav a:hover {
 }
 
 .stat-card-analytics {
-  padding: 20px 16px;
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  border-radius: 4px;
-  background: rgba(7, 8, 9, 0.5);
+  padding: 24px 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
   text-align: center;
 }
 
@@ -5264,5 +5266,972 @@ footer nav a:hover {
   .hero-athlete,
   .hero-ghost {
     will-change: auto;
+  }
+}
+
+/* ============================================================
+   METRO CAREER TIMELINE
+   ============================================================ */
+
+.career-metro-section {
+  padding: clamp(80px, 10vw, 140px) 0;
+  background: var(--ink);
+  position: relative;
+  overflow: hidden;
+}
+
+.career-metro-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 60% 50% at 50% 0%, rgba(208, 173, 104, 0.06) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.career-metro-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 clamp(20px, 4vw, 60px);
+}
+
+.career-metro-header {
+  text-align: center;
+  margin-bottom: clamp(48px, 6vw, 80px);
+}
+
+.career-metro-header h2 {
+  margin: 12px 0 16px;
+  font: 900 clamp(2.4rem, 5vw, 4.5rem) / 0.9 var(--display);
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.career-metro-header h2 i {
+  font-style: italic;
+  color: var(--gold);
+}
+
+.career-metro-header p {
+  color: var(--muted);
+  font-size: clamp(0.9rem, 1.5vw, 1.05rem);
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+/* Metro Line */
+.metro-line-wrapper {
+  overflow-x: auto;
+  padding: 0 0 24px;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.metro-line-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.metro-line {
+  display: flex;
+  align-items: flex-start;
+  gap: 0;
+  min-width: max-content;
+  padding: 32px 20px;
+}
+
+.metro-station {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.metro-connector {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  width: calc(100% + 0px);
+  height: 3px;
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-50%);
+  z-index: 0;
+  transition: background 0.5s ease;
+}
+
+/* Place connector between stations */
+.metro-station:not(:last-child) {
+  padding-right: clamp(60px, 8vw, 100px);
+}
+
+.metro-station:not(:last-child) .metro-connector {
+  width: 100%;
+  left: 50%;
+}
+
+.station-dot {
+  position: relative;
+  z-index: 1;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: var(--ink);
+}
+
+.station-dot:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 20px currentColor;
+}
+
+.metro-station.active .station-dot {
+  transform: scale(1.3);
+  box-shadow: 0 0 24px currentColor;
+}
+
+.station-number {
+  font-size: 0.75rem;
+  font-weight: 700;
+  pointer-events: none;
+}
+
+.station-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 12px;
+  gap: 2px;
+  text-align: center;
+}
+
+.station-year {
+  font-size: 0.65rem;
+  color: var(--muted);
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+
+.station-name {
+  font-size: 0.72rem;
+  color: var(--text);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+/* Station Details Panel */
+.metro-station-details {
+  margin-top: 48px;
+  padding: clamp(28px, 4vw, 48px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  background: rgba(14, 16, 20, 0.8);
+  backdrop-filter: blur(12px);
+}
+
+.station-details-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 32px;
+  padding-bottom: 28px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.station-icon {
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.station-title-group h3 {
+  font: 800 clamp(1.5rem, 2.5vw, 2rem) / 1 var(--display);
+  letter-spacing: -0.02em;
+  color: var(--text);
+  text-transform: uppercase;
+  margin: 0 0 6px;
+}
+
+.station-title-group p {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0 0 10px;
+}
+
+.station-year-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border: 1px solid rgba(208, 173, 104, 0.3);
+  border-radius: 20px;
+  color: var(--gold);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.station-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+@media (max-width: 700px) {
+  .station-content {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+}
+
+.station-achievements h4 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 16px;
+}
+
+.station-achievements ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.station-achievements ul li {
+  padding-left: 20px;
+  position: relative;
+  color: var(--text);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.station-achievements ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 9px;
+  width: 8px;
+  height: 2px;
+  background: var(--gold);
+}
+
+.station-stats-cards {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.stat-card-metro {
+  flex: 1;
+  min-width: 90px;
+  padding: 20px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.03);
+  text-align: center;
+  transition: border-color 0.3s ease;
+}
+
+.stat-card-metro:hover {
+  border-color: rgba(208, 173, 104, 0.2);
+}
+
+.stat-label-metro {
+  display: block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.stat-value-metro {
+  display: block;
+  font: 800 1.6rem / 1 var(--display);
+  color: var(--gold-strong);
+  letter-spacing: -0.02em;
+}
+
+.station-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.nav-btn:hover:not(:disabled) {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+.nav-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* ============================================================
+   CAREER RECORDS — NEW
+   ============================================================ */
+
+.records-section-new {
+  padding: clamp(80px, 10vw, 140px) 0;
+  background: var(--surface);
+  position: relative;
+}
+
+.records-section-new::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 50% 40% at 50% 100%, rgba(208, 173, 104, 0.05) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.records-container-new {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 clamp(20px, 4vw, 60px);
+  position: relative;
+}
+
+.records-header-new {
+  text-align: center;
+  margin-bottom: clamp(40px, 5vw, 64px);
+}
+
+.records-header-new h2 {
+  margin: 12px 0 16px;
+  font: 900 clamp(2.4rem, 5vw, 4.5rem) / 0.9 var(--display);
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.records-header-new h2 i {
+  font-style: italic;
+  color: var(--gold);
+}
+
+.records-header-new p {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* Records Nav Tabs */
+.records-nav-new {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 48px;
+}
+
+.records-nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+
+.records-nav-btn:hover {
+  border-color: rgba(208, 173, 104, 0.3);
+  color: var(--text);
+}
+
+.records-nav-btn.active {
+  border-color: var(--gold);
+  background: rgba(208, 173, 104, 0.08);
+  color: var(--gold);
+}
+
+.records-content-new {
+  min-height: 300px;
+}
+
+.records-grid-new {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.record-card-new {
+  padding: clamp(24px, 3vw, 36px);
+  background: rgba(10, 12, 16, 0.95);
+  position: relative;
+  overflow: hidden;
+  transition: background 0.3s ease;
+}
+
+.record-card-new::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--gold);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+.record-card-new:hover {
+  background: rgba(208, 173, 104, 0.04);
+}
+
+.record-card-new:hover::after {
+  transform: scaleX(1);
+}
+
+.record-card-new.highlight {
+  background: rgba(208, 173, 104, 0.06);
+}
+
+.record-card-new.highlight::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 100%;
+  background: var(--gold);
+}
+
+.record-icon-new {
+  display: block;
+  font-size: 1.6rem;
+  margin-bottom: 12px;
+  line-height: 1;
+}
+
+.record-label-new {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+
+.record-value-new {
+  font: 900 clamp(1.8rem, 3vw, 2.6rem) / 0.9 var(--display);
+  letter-spacing: -0.03em;
+  color: var(--gold-strong);
+  margin-bottom: 10px;
+}
+
+.record-context-new {
+  font-size: 0.82rem;
+  color: rgba(169, 165, 155, 0.7);
+  line-height: 1.5;
+}
+
+.record-format-badge {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 3px 10px;
+  border: 1px solid rgba(208, 173, 104, 0.25);
+  border-radius: 20px;
+  color: var(--gold);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.records-footer-new {
+  margin-top: 32px;
+  padding: 16px 24px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 4px;
+  background: rgba(7, 8, 9, 0.4);
+}
+
+.records-footer-new p {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.records-footer-new strong {
+  color: var(--text);
+}
+
+/* ============================================================
+   MATCH EXPLORER — NEW
+   ============================================================ */
+
+.match-explorer-new {
+  padding: clamp(80px, 10vw, 140px) 0;
+  background: var(--ink);
+  position: relative;
+}
+
+.match-explorer-container-new {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 clamp(20px, 4vw, 60px);
+}
+
+.match-explorer-header {
+  text-align: center;
+  margin-bottom: clamp(40px, 5vw, 64px);
+}
+
+.match-explorer-header h2 {
+  margin: 12px 0 16px;
+  font: 900 clamp(2.4rem, 5vw, 4.5rem) / 0.9 var(--display);
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.match-explorer-header h2 i {
+  font-style: italic;
+  color: var(--gold);
+}
+
+.match-explorer-header p {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* Filters */
+.match-filters-new {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 24px;
+  padding: 20px 24px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  background: rgba(14, 16, 20, 0.6);
+}
+
+.filter-search-new {
+  flex: 1;
+  min-width: 220px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--muted);
+}
+
+.filter-search-new input {
+  flex: 1;
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--text);
+  font-size: 0.88rem;
+  font-family: inherit;
+}
+
+.filter-search-new input::placeholder {
+  color: var(--muted);
+  opacity: 0.6;
+}
+
+.filter-formats-new {
+  display: flex;
+  gap: 6px;
+}
+
+.format-filter-btn {
+  padding: 8px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.format-filter-btn:hover {
+  border-color: rgba(208, 173, 104, 0.3);
+  color: var(--text);
+}
+
+.format-filter-btn.active {
+  border-color: var(--gold);
+  background: rgba(208, 173, 104, 0.1);
+  color: var(--gold);
+}
+
+.filter-year-new {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--muted);
+}
+
+.filter-year-new select {
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--text);
+  font-size: 0.82rem;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.filter-year-new select option {
+  background: #0e1014;
+}
+
+.match-results-info {
+  margin-bottom: 20px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+}
+
+/* Match Grid */
+.match-grid-new {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+@media (max-width: 640px) {
+  .match-grid-new {
+    grid-template-columns: 1fr;
+  }
+}
+
+.match-card-new {
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 6px;
+  background: rgba(14, 16, 20, 0.8);
+  transition: all 0.25s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.match-card-new:hover {
+  border-color: rgba(208, 173, 104, 0.2);
+  background: rgba(208, 173, 104, 0.03);
+  transform: translateY(-2px);
+}
+
+.match-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.match-format-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 3px;
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.match-format-badge.test {
+  background: rgba(212, 175, 55, 0.15);
+  color: #d4af37;
+}
+
+.match-format-badge.odi {
+  background: rgba(78, 205, 196, 0.15);
+  color: #4ecdc4;
+}
+
+.match-format-badge.t20i {
+  background: rgba(255, 107, 53, 0.15);
+  color: #ff6b35;
+}
+
+.match-format-badge.ipl {
+  background: rgba(155, 89, 182, 0.15);
+  color: #9b59b6;
+}
+
+/* RESULT COLORS — Green = Win, Red = Loss */
+.match-result-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 3px;
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.result-win {
+  background: rgba(0, 184, 148, 0.15);
+  color: #00b894;
+  border: 1px solid rgba(0, 184, 148, 0.25);
+}
+
+.result-loss {
+  background: rgba(231, 76, 60, 0.15);
+  color: #e74c3c;
+  border: 1px solid rgba(231, 76, 60, 0.25);
+}
+
+.result-draw {
+  background: rgba(169, 165, 155, 0.1);
+  color: var(--muted);
+  border: 1px solid rgba(169, 165, 155, 0.15);
+}
+
+/* Match Card Score */
+.match-card-score {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.runs-display {
+  font: 900 clamp(2rem, 4vw, 2.8rem) / 0.9 var(--display);
+  letter-spacing: -0.04em;
+  color: var(--gold-strong);
+}
+
+.balls-display {
+  font-size: 0.9rem;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+/* Match Card Stats Row */
+.match-card-stats {
+  display: flex;
+  gap: 0;
+  margin-bottom: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.match-card-stats .stat-item {
+  flex: 1;
+  padding: 8px;
+  text-align: center;
+  border-right: 1px solid rgba(255, 255, 255, 0.06);
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.match-card-stats .stat-item:last-child {
+  border-right: none;
+}
+
+.match-card-stats .stat-label {
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.match-card-stats .stat-value {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+/* Match Card Details */
+.match-card-details {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.match-opponent,
+.match-venue,
+.match-date {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.match-opponent {
+  color: var(--text);
+  font-weight: 600;
+}
+
+/* Load More */
+.match-load-more {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.load-more-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 32px;
+  border: 1px solid rgba(208, 173, 104, 0.3);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--gold);
+  font-size: 0.88rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.load-more-btn:hover {
+  background: rgba(208, 173, 104, 0.08);
+  border-color: var(--gold);
+}
+
+/* No Results */
+.no-results {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 80px 20px;
+  color: var(--muted);
+  text-align: center;
+}
+
+.no-results p {
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* ============================================================
+   MOBILE RESPONSIVE — NEW COMPONENTS
+   ============================================================ */
+
+@media (max-width: 768px) {
+  .metro-station:not(:last-child) {
+    padding-right: clamp(40px, 6vw, 70px);
+  }
+
+  .station-details-header {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .station-year-badge {
+    align-self: flex-start;
+  }
+
+  .records-nav-new {
+    gap: 6px;
+  }
+
+  .records-nav-btn {
+    padding: 8px 14px;
+    font-size: 0.75rem;
+  }
+
+  .records-nav-btn span {
+    display: none;
+  }
+
+  .records-grid-new {
+    grid-template-columns: 1fr;
+  }
+
+  .match-filters-new {
+    gap: 10px;
+    padding: 14px;
+  }
+
+  .filter-formats-new {
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  .format-filter-btn {
+    padding: 6px 12px;
+    font-size: 0.72rem;
+  }
+
+  .match-grid-new {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .station-stats-cards {
+    flex-direction: column;
+  }
+
+  .stat-card-metro {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+  }
+
+  .records-nav-btn span {
+    display: none;
   }
 }
